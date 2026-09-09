@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "collected_at": "2026-09-09",
+  "categories": [
+    {
+      "id": "ecommerce",
+      "title": {
+        "en": "Ecommerce & product marketing",
+        "zh": "电商主图与产品营销"
+      },
+      "description": {
+        "en": "Hero shots, campaign ads, packshots for retail listing pages.",
+        "zh": "电商主图、营销广告、货架包装图。"
+      },
+      "count": 14
+    },
+    {
+      "id": "xiaohongshu",
+      "title": {
+        "en": "Xiaohongshu / Chinese social",
+        "zh": "小红书与中文社媒"
+      },
+      "description": {
+        "en": "3:4 covers, infographics, and Chinese typography for RED.",
+        "zh": "小红书 3:4 封面、信息图与中文排版。"
+      },
+      "count": 9
+    },
+    {
+      "id": "poster-typography",
+      "title": {
+        "en": "Poster & exact typography",
+        "zh": "海报与精确文字"
+      },
+      "description": {
+        "en": "Posters, ads, and layouts that need exact on-image text.",
+        "zh": "需要精确出字的海报、广告与版式。"
+      },
+      "count": 16
+    },
+    {
+      "id": "product-cutout",
+      "title": {
+        "en": "Product cutout / transparent",
+        "zh": "产品抠图 / 透明背景"
+      },
+      "description": {
+        "en": "Isolated products on transparent or studio backgrounds.",
+        "zh": "透明底或棚拍底上的产品抠图。"
+      },
+      "count": 5
+    },
+    {
+      "id": "ui-mockup",
+      "title": {
+        "en": "UI / app mockups",
+        "zh": "UI / App 界面稿"
+      },
+      "description": {
+        "en": "Mobile and web interface mockups with readable chrome.",
+        "zh": "可读控件的移动端与网页界面稿。"
+      },
+      "count": 7
+    },
+    {
+      "id": "character-consistency",
+      "title": {
+        "en": "Character consistency",
+        "zh": "角色一致性"
+      },
+      "description": {
+        "en": "Identity-preserving characters across poses and scenes.",
+        "zh": "跨姿势与场景保持身份一致的角色。"
+      },
+      "count": 8
+    },
+    {
+      "id": "edit-change-preserve",
+      "title": {
+        "en": "Edit: Change + Preserve",
+        "zh": "编辑：Change + Preserve"
+      },
+      "description": {
+        "en": "Surgical edits that change one thing and preserve the rest.",
+        "zh": "只改一件事、其余尽量保持的局部编辑。"
+      },
+      "count": 16
+    },
+    {
+      "id": "flare-vs-sunburst",
+      "title": {
+        "en": "Flare vs Sunburst pairs",
+        "zh": "Flare vs Sunburst 对照"
+      },
+      "description": {
+        "en": "Same prompt useful for comparing Flare (fast) and Sunburst (quality).",
+        "zh": "适合用同一 Prompt 对比 Flare（快）与 Sunburst（精）。"
+      },
+      "count": 5
+    },
+    {
+      "id": "general",
+      "title": {
+        "en": "General / photoreal",
+        "zh": "通用 / 写实"
+      },
+      "description": {
+        "en": "General photoreal and documentary-style generations.",
+        "zh": "通用写实与纪实风格生成。"
+      },
+      "count": 8
+    }
+  ]
+}

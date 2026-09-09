@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://hiapi.ai/schemas/gpt-image-25-prompt.json",
+  "title": "hiAPI GPT Image 2.5 Prompt Record",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "title",
+    "prompt",
+    "mode",
+    "categories",
+    "recommended_model",
+    "attribution",
+    "remix_allowed",
+    "collected_at"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^gi25-[a-z]+-[0-9]{3}$"
+    },
+    "title": {
+      "type": "object",
+      "required": [
+        "en",
+        "zh"
+      ],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zh": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt_structure": {
+      "type": "string"
+    },
+    "mode": {
+      "type": "string",
+      "enum": [
+        "generate",
+        "edit",
+        "multi_ref"
+      ]
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "recommended_model": {
+      "type": "string",
+      "enum": [
+        "gpt-image-2.5-flare",
+        "gpt-image-2.5-sunburst",
+        "either",
+        "gpt-image-2"
+      ]
+    },
+    "model_targets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "settings": {
+      "type": "object",
+      "properties": {
+        "quality": {
+          "type": "string"
+        },
+        "size": {
+          "type": "string"
+        },
+        "background": {
+          "type": "string"
+        }
+      }
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "preview": {
+      "type": "object"
+    },
+    "attribution": {
+      "type": "object",
+      "required": [
+        "source",
+        "author",
+        "url",
+        "license"
+      ],
+      "properties": {
+        "source": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "license": {
+          "type": "string"
+        }
+      }
+    },
+    "remix_allowed": {
+      "type": "boolean"
+    },
+    "collected_at": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "cta": {
+      "type": "object"
+    }
+  }
+}
