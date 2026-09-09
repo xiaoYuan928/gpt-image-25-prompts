@@ -5,6 +5,8 @@
 **Categories:** `edit-change-preserve`, `flare-vs-sunburst`  
 **Tags:** `weather`, `iterative`, `openai-official`  
 
+![preview](../../previews/gi25-edit-008.webp)
+
 ### Winter snowfall follow-up edit
 
 ```text

@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`, `character-consistency`  
 **Tags:** `try-on`, `multi-ref`, `fal`  
 
+![before](../../previews/gi25-edit-011-before.png)
+![preview](../../previews/gi25-edit-011.png)
+
 ### Virtual try-on multi-ref jacket boots
 
 ```text

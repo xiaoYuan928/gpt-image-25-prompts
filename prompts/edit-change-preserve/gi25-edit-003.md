@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`, `character-consistency`  
 **Tags:** `try-on`, `identity-lock`, `openai-official`  
 
+![before](../../previews/gi25-edit-003-before.webp)
+![preview](../../previews/gi25-edit-003.webp)
+
 ### Virtual try-on preserve identity
 
 ```text

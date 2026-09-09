@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `sketch-to-photo`, `openai-official`  
 
+![before](../../previews/gi25-edit-005-before.webp)
+![preview](../../previews/gi25-edit-005.webp)
+
 ### Drawing to photoreal preserve layout
 
 ```text

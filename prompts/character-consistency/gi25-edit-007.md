@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`, `character-consistency`  
 **Tags:** `insert-person`, `openai-official`  
 
+![before](../../previews/gi25-edit-007-before.webp)
+![preview](../../previews/gi25-edit-007.webp)
+
 ### Person into bear campsite action scene
 
 ```text

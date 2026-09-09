@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `compositing`, `openai-official`  
 
+![before](../../previews/gi25-edit-004-before.webp)
+![preview](../../previews/gi25-edit-004.webp)
+
 ### Composite dog into scene next to woman
 
 ```text

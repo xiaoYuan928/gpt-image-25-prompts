@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`, `character-consistency`  
 **Tags:** `style-transfer`, `openai-official`  
 
+![before](../../previews/gi25-edit-002-before.webp)
+![preview](../../previews/gi25-edit-002.webp)
+
 ### Style transfer motorcycle white background
 
 ```text

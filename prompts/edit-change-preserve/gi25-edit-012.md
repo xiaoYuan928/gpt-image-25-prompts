@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `interior`, `object-swap`, `fal`  
 
+![before](../../previews/gi25-edit-012-before.jpg)
+![preview](../../previews/gi25-edit-012.png)
+
 ### Interior oak chair swap
 
 ```text

@@ -5,6 +5,8 @@
 **Categories:** `character-consistency`, `edit-change-preserve`  
 **Tags:** `multi-turn`, `openai-official`  
 
+![preview](../../previews/gi25-char-002.webp)
+
 ### Continue forest hero squirrel rescue
 
 ```text

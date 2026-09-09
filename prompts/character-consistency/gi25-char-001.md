@@ -5,6 +5,8 @@
 **Categories:** `character-consistency`  
 **Tags:** `children-book`, `character-anchor`, `openai-official`  
 
+![preview](../../previews/gi25-char-001.webp)
+
 ### Children book forest hero character establish
 
 ```text

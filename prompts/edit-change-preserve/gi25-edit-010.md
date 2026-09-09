@@ -5,6 +5,8 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `cleanup`, `preserve-list`, `fal`  
 
+![preview](../../previews/gi25-edit-010.png)
+
 ### Remove storefront posters preserve architecture
 
 ```text

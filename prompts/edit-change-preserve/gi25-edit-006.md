@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `object-removal`, `openai-official`  
 
+![before](../../previews/gi25-edit-006-before.webp)
+![preview](../../previews/gi25-edit-006.webp)
+
 ### Remove flower preserve everything else
 
 ```text

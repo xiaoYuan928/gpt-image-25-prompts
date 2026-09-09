@@ -33,3 +33,10 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 Prompt strings remain the creative work of their listed authors. This pack does not
 claim ownership of upstream examples. Always follow the upstream site terms and
 OpenAI Usage Policy when generating images.
+
+
+## Preview images
+
+Example outputs shown under `previews/` are cached from the attribution URLs above for education.
+See `previews/SOURCES.md` for per-file source image URLs and `previews/README.md` for license notes.
+Do not treat cached images as MIT/CC BY simply because this repository’s scaffolding is.

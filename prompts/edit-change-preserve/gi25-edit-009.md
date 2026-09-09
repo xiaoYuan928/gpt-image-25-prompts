@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `interior`, `object-swap`, `openai-official`  
 
+![before](../../previews/gi25-edit-009-before.webp)
+![preview](../../previews/gi25-edit-009.webp)
+
 ### Replace white chairs with wood chairs
 
 ```text

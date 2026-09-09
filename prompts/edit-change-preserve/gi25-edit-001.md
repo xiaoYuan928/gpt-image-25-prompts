@@ -5,6 +5,9 @@
 **Categories:** `edit-change-preserve`  
 **Tags:** `translate`, `preserve-layout`, `openai-official`  
 
+![before](../../previews/gi25-edit-001-before.webp)
+![preview](../../previews/gi25-edit-001.webp)
+
 ### Translate infographic to Spanish preserve layout
 
 ```text
