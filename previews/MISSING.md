@@ -3,7 +3,8 @@
 Prompts where the attribution source page did **not** provide a clearly corresponding example/output image
 (or download failed). `preview` remains `null` in `data/prompts.jsonl`.
 
-Count: **18** / 58
+
+Count: **31** / 92
 
 - `gi25-ui-002` — DAYBREAK minimalist to-do app screenshot: fal page shows DAYBREAK prompt text but adjacent example image is a different mobile weather-app render, not DAYBREAK.
 - `gi25-gen-007` — Istanbul florist blue hour structured template: fal copy-paste Istanbul florist prompt; page only shows a “closest analogue” winter street portrait, not this prompt’s output.
@@ -23,3 +24,16 @@ Count: **18** / 58
 - `gi25-xhs-004` — Xiaohongshu data visualization card: Apiyi page has no example output for the data visualization card template.
 - `gi25-xhs-005` — Xiaohongshu checklist cover: Apiyi page has no example output for the checklist cover template.
 - `gi25-xhs-006` — Xiaohongshu AI drawing tools cover example: Apiyi page has no example output for the AI drawing tools TOP 5 cover (only guide chrome images).
+- `gi25-gen-010` — Clean editorial onboarding illustration: source page has prompt text but no matching example output image.
+- `gi25-edit-016` — Replace mug with potted plant preserve scene: source page has prompt text but no matching example output image.
+- `gi25-edit-017` — Multi-ref product photo apply style reference: source page has prompt text but no matching example output image.
+- `gi25-typ-009` — Add SPRING WORKSHOP title only: source page has prompt text but no matching example output image.
+- `gi25-eco-010` — Cobalt ceramic mug studio product with headline space: source page has prompt text but no matching example output image.
+- `gi25-edit-018` — Change mug background pale gray to warm beige: source page has prompt text but no matching example output image.
+- `gi25-eco-011` — Ceramic tea cup clean product photograph: source page has prompt text but no matching example output image.
+- `gi25-cut-004` — Transparent product cutout preserve label: source page has prompt text but no matching example output image.
+- `gi25-eco-012` — Premium product hero protect label leave CTA space: source page has prompt text but no matching example output image.
+- `gi25-ui-007` — Sketch to landing-page hero leave headline space: source page has prompt text but no matching example output image.
+- `gi25-char-004` — Viral mall studio 1980s portrait restyle: source page has prompt text but no matching example output image.
+- `gi25-gen-011` — Scandinavian living room from sketch layout: source page has prompt text but no matching example output image.
+- `gi25-typ-010` — Yard sale poster template with exact details: source page has prompt text but no matching example output image.

@@ -15,3 +15,4 @@ _小红书 3:4 封面、信息图与中文排版。_
 - [Xiaohongshu checklist cover](./gi25-xhs-005.md) (`gi25-xhs-005`)
 - [Xiaohongshu AI drawing tools cover example](./gi25-xhs-006.md) (`gi25-xhs-006`)
 - [Xiaohongshu saveable collage cover](./gi25-xhs-007.md) (`gi25-xhs-007`)
+

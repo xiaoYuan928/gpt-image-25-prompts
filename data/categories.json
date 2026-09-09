@@ -12,7 +12,7 @@
         "en": "Hero shots, campaign ads, packshots for retail listing pages.",
         "zh": "电商主图、营销广告、货架包装图。"
       },
-      "count": 14
+      "count": 27
     },
     {
       "id": "xiaohongshu",
@@ -36,7 +36,7 @@
         "en": "Posters, ads, and layouts that need exact on-image text.",
         "zh": "需要精确出字的海报、广告与版式。"
       },
-      "count": 16
+      "count": 30
     },
     {
       "id": "product-cutout",
@@ -48,7 +48,7 @@
         "en": "Isolated products on transparent or studio backgrounds.",
         "zh": "透明底或棚拍底上的产品抠图。"
       },
-      "count": 5
+      "count": 6
     },
     {
       "id": "ui-mockup",
@@ -60,7 +60,7 @@
         "en": "Mobile and web interface mockups with readable chrome.",
         "zh": "可读控件的移动端与网页界面稿。"
       },
-      "count": 7
+      "count": 15
     },
     {
       "id": "character-consistency",
@@ -72,7 +72,7 @@
         "en": "Identity-preserving characters across poses and scenes.",
         "zh": "跨姿势与场景保持身份一致的角色。"
       },
-      "count": 8
+      "count": 12
     },
     {
       "id": "edit-change-preserve",
@@ -84,7 +84,7 @@
         "en": "Surgical edits that change one thing and preserve the rest.",
         "zh": "只改一件事、其余尽量保持的局部编辑。"
       },
-      "count": 16
+      "count": 24
     },
     {
       "id": "flare-vs-sunburst",
@@ -96,7 +96,7 @@
         "en": "Same prompt useful for comparing Flare (fast) and Sunburst (quality).",
         "zh": "适合用同一 Prompt 对比 Flare（快）与 Sunburst（精）。"
       },
-      "count": 5
+      "count": 7
     },
     {
       "id": "general",
@@ -108,7 +108,7 @@
         "en": "General photoreal and documentary-style generations.",
         "zh": "通用写实与纪实风格生成。"
       },
-      "count": 8
+      "count": 15
     }
   ]
 }
