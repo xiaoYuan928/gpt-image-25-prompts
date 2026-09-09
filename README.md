@@ -4,7 +4,7 @@ Sourced, attributed prompts for **GPT Image 2.5** (`gpt-image-2.5-flare` / `gpt-
 
 **58** entries · collected **2026-09-09** · every record has an `attribution.url`
 
-> Soft note: try the same prompts on hiAPI — [GPT Image 2.5 Flare](https://www.hiapi.ai/en/models/gpt-image-2.5-flare) · [Sunburst](https://www.hiapi.ai/en/models/gpt-image-2.5-sunburst) · [API](https://api.hiapi.ai). Limited launch offer (check dates): [30% off promo](https://www.hiapi.ai/en/promotions). This repo is **not affiliated with OpenAI**.
+> Soft note: try the same prompts on hiAPI — [GPT Image 2.5 Flare](https://www.hiapi.ai/en/models/gpt-image-2.5-flare?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-flare) · [Sunburst](https://www.hiapi.ai/en/models/gpt-image-2.5-sunburst?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-sunburst) · [API](https://api.hiapi.ai?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-api). Limited launch offer (check dates): [30% off promo](https://www.hiapi.ai/en/promotions?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-promo). This repo is **not affiliated with OpenAI**.
 
 [简体中文](./README.zh-CN.md) · [NOTICE](./NOTICE.md) · [Schema](./schema/prompt.schema.json) · [Skill](./skills/hiapi-gpt-image-25/SKILL.md)
 
