@@ -4,7 +4,7 @@
 
 **58** 条 · 采集于 **2026-09-09** · 每条均含 `attribution.url`
 
-> 轻量说明：同一批 Prompt 也可在 [hiAPI](https://hiapi.ai) / [api.hiapi.ai](https://api.hiapi.ai) 上试跑。本仓库**与 OpenAI 无隶属关系**。
+> 轻量说明：同一批 Prompt 可在 hiAPI 试跑 — [Flare](https://www.hiapi.ai/zh/models/gpt-image-2.5-flare) · [Sunburst](https://www.hiapi.ai/zh/models/gpt-image-2.5-sunburst) · [API](https://api.hiapi.ai)。上新限时活动（以页面日期为准）：[双模型限时 7 折](https://www.hiapi.ai/zh/promotions)。本仓库**与 OpenAI 无隶属关系**。
 
 [English](./README.md) · [NOTICE](./NOTICE.md) · [Schema](./schema/prompt.schema.json) · [Skill](./skills/hiapi-gpt-image-25/SKILL.md)
 
