@@ -4,7 +4,7 @@ Identity-preserving characters across poses and scenes.
 
 _跨姿势与场景保持身份一致的角色。_
 
-**Prompts in this category:** 12
+**Prompts in this category:** 17
 
 - [Children book forest hero character establish](./gi25-char-001.md) (`gi25-char-001`)
 - [Continue forest hero squirrel rescue](./gi25-char-002.md) (`gi25-char-002`)
@@ -18,4 +18,9 @@ _跨姿势与场景保持身份一致的角色。_
 - [Neon 80s Portrait (viral shared prompt)](./gi25-gen-009.md) (`gi25-gen-009`)
 - [Neo-Noir Character Design Board](./gi25-x-008.md) (`gi25-x-008`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
+- [Retro silkscreen character poster](./gi25-x-021.md) (`gi25-x-021`)
+- [Low-angle fantasy character fashion photography](./gi25-x-024.md) (`gi25-x-024`)
+- [Resin figure 360° split-screen animation](./gi25-x-032.md) (`gi25-x-032`)
+- [Reusable 16-frame sprite sheet template](./gi25-x-033.md) (`gi25-x-033`)
+- [Replace a single garment, keep everything else](./gi25-x-042.md) (`gi25-x-042`)
 

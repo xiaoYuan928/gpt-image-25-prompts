@@ -4,7 +4,7 @@ Surgical edits that change one thing and preserve the rest.
 
 _只改一件事、其余尽量保持的局部编辑。_
 
-**Prompts in this category:** 24
+**Prompts in this category:** 36
 
 - [Continue forest hero squirrel rescue](./gi25-char-002.md) (`gi25-char-002`)
 - [Transparent product cutout preserve label](./gi25-cut-004.md) (`gi25-cut-004`)
@@ -27,7 +27,19 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Replace mug with potted plant preserve scene](./gi25-edit-016.md) (`gi25-edit-016`)
 - [Multi-ref product photo apply style reference](./gi25-edit-017.md) (`gi25-edit-017`)
 - [Change mug background pale gray to warm beige](./gi25-edit-018.md) (`gi25-edit-018`)
+- [Surgical packaging copy: Daily → Mineral Hydration](./gi25-edit-019.md) (`gi25-edit-019`)
+- [Change bottle cap to gold, preserve all else](./gi25-edit-020.md) (`gi25-edit-020`)
+- [Replace latency chart with error-rate bars](./gi25-edit-021.md) (`gi25-edit-021`)
 - [Scandinavian living room from sketch layout](./gi25-gen-011.md) (`gi25-gen-011`)
+- [Sketch-to-photoreal boutique hotel lobby](./gi25-gen-012.md) (`gi25-gen-012`)
 - [Add SPRING WORKSHOP title only](./gi25-typ-009.md) (`gi25-typ-009`)
 - [Sketch to landing-page hero leave headline space](./gi25-ui-007.md) (`gi25-ui-007`)
+- [Merge multiple references, one job each](./gi25-x-034.md) (`gi25-x-034`)
+- [Lock a base image, change only what you name](./gi25-x-038.md) (`gi25-x-038`)
+- [Edit one element, leave the rest untouched](./gi25-x-039.md) (`gi25-x-039`)
+- [Drop a fixed product shot into a new scene](./gi25-x-040.md) (`gi25-x-040`)
+- [Place a UI screenshot into a premium device scene](./gi25-x-041.md) (`gi25-x-041`)
+- [Replace a single garment, keep everything else](./gi25-x-042.md) (`gi25-x-042`)
+- [Localise the on-image copy only](./gi25-x-043.md) (`gi25-x-043`)
+- [Isolate the product and clean up the edges](./gi25-x-044.md) (`gi25-x-044`)
 

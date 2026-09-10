@@ -2,7 +2,7 @@
 
 面向 **GPT Image 2.5**（`gpt-image-2.5-flare` / `gpt-image-2.5-sunburst`）的**有出处**提示词库，适合复制使用与 API 试验。
 
-**92** 条 · 采集于 **2026-09-09** · 每条均含 `attribution.url`
+**131** 条 · 采集于 **2026-09-10** · 每条均含 `attribution.url`
 
 > 轻量说明：同一批 Prompt 可在 hiAPI 试跑 — [Flare](https://www.hiapi.ai/zh/models/gpt-image-2.5-flare?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-zh-flare) · [Sunburst](https://www.hiapi.ai/zh/models/gpt-image-2.5-sunburst?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-zh-sunburst) · [API](https://api.hiapi.ai?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-zh-api)。上新限时活动（以页面日期为准）：[双模型限时 7 折](https://www.hiapi.ai/zh/promotions?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-zh-promo)。本仓库**与 OpenAI 无隶属关系**。
 

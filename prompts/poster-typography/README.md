@@ -4,12 +4,13 @@ Posters, ads, and layouts that need exact on-image text.
 
 _需要精确出字的海报、广告与版式。_
 
-**Prompts in this category:** 30
+**Prompts in this category:** 41
 
 - [Field & Flour bakery logo transparent](./gi25-cut-001.md) (`gi25-cut-001`)
 - [Shampoo highway billboard Fresh and clean](./gi25-eco-001.md) (`gi25-eco-001`)
 - [Stone wireless earbuds museum archive](./gi25-eco-003.md) (`gi25-eco-003`)
 - [Sound you can feel speaker ad](./gi25-eco-006.md) (`gi25-eco-006`)
+- [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
 - [Coffee machine technical infographic](./gi25-gen-002.md) (`gi25-gen-002`)
 - [Thread streetwear campaign with exact tagline](./gi25-typ-001.md) (`gi25-typ-001`)
 - [Cellular respiration classroom diagram](./gi25-typ-002.md) (`gi25-typ-002`)
@@ -21,6 +22,7 @@ _需要精确出字的海报、广告与版式。_
 - [FRAME 2026 design conference poster](./gi25-typ-008.md) (`gi25-typ-008`)
 - [Add SPRING WORKSHOP title only](./gi25-typ-009.md) (`gi25-typ-009`)
 - [Yard sale poster template with exact details](./gi25-typ-010.md) (`gi25-typ-010`)
+- [Heat pump educational infographic with exact labels](./gi25-typ-011.md) (`gi25-typ-011`)
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [Chinese wildlife endangered animal infographic](./gi25-ui-006.md) (`gi25-ui-006`)
 - [Folk Papercraft Scene Remix](./gi25-x-003.md) (`gi25-x-003`)
@@ -35,5 +37,14 @@ _需要精确出字的海报、广告与版式。_
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
 - [Industrial Design Presentation Sheet](./gi25-x-019.md) (`gi25-x-019`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
+- [Retro silkscreen character poster](./gi25-x-021.md) (`gi25-x-021`)
+- [Showa-era Japanese travel poster](./gi25-x-022.md) (`gi25-x-022`)
+- [Dense frame: six-model fashion campaign](./gi25-x-023.md) (`gi25-x-023`)
+- [Storefront glass: reflection plus etched type](./gi25-x-036.md) (`gi25-x-036`)
+- [Ten-panel storyboard for an autumn pyjama ad](./gi25-x-037.md) (`gi25-x-037`)
+- [Localise the on-image copy only](./gi25-x-043.md) (`gi25-x-043`)
+- [Dense frame: coffee machine service manual cutaway](./gi25-x-045.md) (`gi25-x-045`)
+- [Dense frame: six-panel newspaper comic](./gi25-x-046.md) (`gi25-x-046`)
+- [Dense frame: Welsh post office notice board](./gi25-x-047.md) (`gi25-x-047`)
 - [Xiaohongshu data visualization card](./gi25-xhs-004.md) (`gi25-xhs-004`)
 
