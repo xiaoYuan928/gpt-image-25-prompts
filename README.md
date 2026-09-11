@@ -2,7 +2,7 @@
 
 Sourced, attributed prompts for **GPT Image 2.5** (`gpt-image-2.5-flare` / `gpt-image-2.5-sunburst`), organized for copy-paste use and API experiments.
 
-**131** entries · collected **2026-09-10** · every record has an `attribution.url`
+**159** entries · collected **2026-09-11** · every record has an `attribution.url`
 
 > Soft note: try the same prompts on hiAPI — [GPT Image 2.5 Flare](https://www.hiapi.ai/en/models/gpt-image-2.5-flare?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-flare) · [Sunburst](https://www.hiapi.ai/en/models/gpt-image-2.5-sunburst?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-sunburst) · [API](https://api.hiapi.ai?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-api). Limited launch offer (check dates): [30% off promo](https://www.hiapi.ai/en/promotions?utm_source=github&utm_medium=referral&utm_campaign=gpt-image-25-prompts&utm_content=readme-en-promo). This repo is **not affiliated with OpenAI**.
 
