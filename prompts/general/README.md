@@ -4,7 +4,7 @@ General photoreal and documentary-style generations.
 
 _通用写实与纪实风格生成。_
 
-**Prompts in this category:** 33
+**Prompts in this category:** 39
 
 - [Action Storyboard Sheet](./gi25-x-001.md) (`gi25-x-001`)
 - [Black-and-white mechanical mask portrait](./gi25-x-026.md) (`gi25-x-026`)
@@ -13,6 +13,7 @@ _通用写实与纪实风格生成。_
 - [Cinematic editorial fashion portrait template](./gi25-gen-008.md) (`gi25-gen-008`)
 - [Clean editorial onboarding illustration](./gi25-gen-010.md) (`gi25-gen-010`)
 - [Coastal abbey travel portrait](./gi25-x-027.md) (`gi25-x-027`)
+- [Cool-teal soft-focus violinist portrait](./gi25-x-078.md) (`gi25-x-078`)
 - [Dark epic megastructure spectacle](./gi25-x-029.md) (`gi25-x-029`)
 - [Dense frame: 1994 infomercial freeze](./gi25-x-060.md) (`gi25-x-060`)
 - [Dense frame: 90s cel-animation duel](./gi25-x-061.md) (`gi25-x-061`)
@@ -21,14 +22,18 @@ _通用写实与纪实风格生成。_
 - [Extreme fisheye close-up selfie](./gi25-x-074.md) (`gi25-x-074`)
 - [Fishmonger dawn market documentary](./gi25-gen-005.md) (`gi25-gen-005`)
 - [Four-panel pet comic reel](./gi25-gen-004.md) (`gi25-gen-004`)
+- [Four-panel skater comic strip](./gi25-char-008.md) (`gi25-char-008`)
 - [High-detail forest clearing photograph](./gi25-x-053.md) (`gi25-x-053`)
+- [High-key tactical studio portrait](./gi25-x-079.md) (`gi25-x-079`)
 - [iPhone portrait in a coffee shop](./gi25-x-057.md) (`gi25-x-057`)
 - [Isometric API gateway routing illustration](./gi25-gen-013.md) (`gi25-gen-013`)
 - [Istanbul florist blue hour structured template](./gi25-gen-007.md) (`gi25-gen-007`)
 - [Japanese dragon versus samurai, xerox print style](./gi25-x-031.md) (`gi25-x-031`)
 - [Low-angle fantasy character fashion photography](./gi25-x-024.md) (`gi25-x-024`)
 - [Museum woman editorial structured](./gi25-flare-001.md) (`gi25-flare-001`)
+- [Natural head-and-shoulders reference portrait](./gi25-char-005.md) (`gi25-char-005`)
 - [Neon 80s Portrait (viral shared prompt)](./gi25-gen-009.md) (`gi25-gen-009`)
+- [New-Chinese-style bride close-up](./gi25-x-080.md) (`gi25-x-080`)
 - [Night city-wall travel portrait](./gi25-x-028.md) (`gi25-x-028`)
 - [Photoreal candid elderly sailor](./gi25-gen-001.md) (`gi25-gen-001`)
 - [Re-frame to a new aspect ratio without cropping](./gi25-x-065.md) (`gi25-x-065`)
@@ -38,4 +43,5 @@ _通用写实与纪实风格生成。_
 - [SQL Collectible Toy Packaging Grid](./gi25-x-002.md) (`gi25-x-002`)
 - [Subway platform portrait with a train streaking past](./gi25-x-025.md) (`gi25-x-025`)
 - [Tea party inside a giant peony](./gi25-x-030.md) (`gi25-x-030`)
+- [Ultra-narrow 1:3 qipao fashion portrait](./gi25-x-077.md) (`gi25-x-077`)
 - [Viral mall studio 1980s portrait restyle](./gi25-char-004.md) (`gi25-char-004`)

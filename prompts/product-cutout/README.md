@@ -4,11 +4,12 @@ Isolated products on transparent or studio backgrounds.
 
 _透明底或棚拍底上的产品抠图。_
 
-**Prompts in this category:** 9
+**Prompts in this category:** 10
 
 - [Collectible toy airplane blister pack](./gi25-eco-002.md) (`gi25-eco-002`)
 - [Field & Flour bakery logo transparent](./gi25-cut-001.md) (`gi25-cut-001`)
 - [Isolate the product and clean up the edges](./gi25-x-044.md) (`gi25-x-044`)
+- [LUMEN hydrating serum studio packshot](./gi25-eco-017.md) (`gi25-eco-017`)
 - [Nine transparent 3D emoji stickers](./gi25-x-048.md) (`gi25-x-048`)
 - [Product cutout transparency fal variant](./gi25-cut-003.md) (`gi25-cut-003`)
 - [Transparent e-commerce headphones cutout](./gi25-cut-005.md) (`gi25-cut-005`)

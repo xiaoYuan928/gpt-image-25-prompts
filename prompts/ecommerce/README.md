@@ -4,7 +4,7 @@ Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 43
+**Prompts in this category:** 48
 
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
 - [Apply flat artwork onto a real product surface](./gi25-x-066.md) (`gi25-x-066`)
@@ -19,19 +19,24 @@ _电商主图、营销广告、货架包装图。_
 - [Earbuds E-commerce Infographic](./gi25-x-016.md) (`gi25-x-016`)
 - [Glass perfume bottle on pale stone (morning light)](./gi25-eco-014.md) (`gi25-eco-014`)
 - [Gourmet cheeseburger cinematic hero](./gi25-eco-008.md) (`gi25-eco-008`)
+- [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
 - [Industrial Design Presentation Sheet](./gi25-x-019.md) (`gi25-x-019`)
+- [LUMEN hydrating serum studio packshot](./gi25-eco-017.md) (`gi25-eco-017`)
 - [Magical Seed Packet Diorama](./gi25-x-017.md) (`gi25-x-017`)
 - [Matte black mechanical keyboard product photo](./gi25-eco-015.md) (`gi25-eco-015`)
 - [Matte black speaker ecommerce hero](./gi25-eco-004.md) (`gi25-eco-004`)
 - [Miniature diorama skincare LUXEVEIL ad](./gi25-eco-007.md) (`gi25-eco-007`)
 - [Minimalist Product Ad: PURE CRUNCH](./gi25-x-014.md) (`gi25-x-014`)
+- [Morning Blend coffee bag — three language variants](./gi25-eco-020.md) (`gi25-eco-020`)
 - [Multi-ref product into style scene](./gi25-edit-013.md) (`gi25-edit-013`)
 - [Multi-ref product photo apply style reference](./gi25-edit-017.md) (`gi25-edit-017`)
 - [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
+- [Oatmeal knit sweater lookbook on-model shot](./gi25-eco-018.md) (`gi25-eco-018`)
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
 - [Person holding the product, styled after a reference](./gi25-x-052.md) (`gi25-x-052`)
 - [Premium product hero protect label leave CTA space](./gi25-eco-012.md) (`gi25-eco-012`)
 - [Product cutout transparency fal variant](./gi25-cut-003.md) (`gi25-cut-003`)
+- [Same packshot product in a morning bathroom scene](./gi25-eco-019.md) (`gi25-eco-019`)
 - [Shampoo highway billboard Fresh and clean](./gi25-eco-001.md) (`gi25-eco-001`)
 - [Sound you can feel speaker ad](./gi25-eco-006.md) (`gi25-eco-006`)
 - [Spicy chili chutney overhead product](./gi25-eco-009.md) (`gi25-eco-009`)

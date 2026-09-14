@@ -4,7 +4,7 @@ Surgical edits that change one thing and preserve the rest.
 
 _只改一件事、其余尽量保持的局部编辑。_
 
-**Prompts in this category:** 49
+**Prompts in this category:** 52
 
 - [Add SPRING WORKSHOP title only](./gi25-typ-009.md) (`gi25-typ-009`)
 - [Apply flat artwork onto a real product surface](./gi25-x-066.md) (`gi25-x-066`)
@@ -37,12 +37,15 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Re-frame to a new aspect ratio without cropping](./gi25-x-065.md) (`gi25-x-065`)
 - [Re-shoot a poster from a new angle, layout preserved](./gi25-x-051.md) (`gi25-x-051`)
 - [Remove flower preserve everything else](./gi25-edit-006.md) (`gi25-edit-006`)
+- [Remove obvious AI artifacts](./gi25-x-076.md) (`gi25-x-076`)
 - [Remove storefront posters preserve architecture](./gi25-edit-010.md) (`gi25-edit-010`)
 - [Replace a single garment, keep everything else](./gi25-x-042.md) (`gi25-x-042`)
 - [Replace latency chart with error-rate bars](./gi25-edit-021.md) (`gi25-edit-021`)
 - [Replace mug with potted plant preserve scene](./gi25-edit-016.md) (`gi25-edit-016`)
 - [Replace white chairs with wood chairs](./gi25-edit-009.md) (`gi25-edit-009`)
 - [Restore a low-resolution image without changing its style](./gi25-x-049.md) (`gi25-x-049`)
+- [Restore and colourise a scanned family photo](./gi25-edit-022.md) (`gi25-edit-022`)
+- [Same packshot product in a morning bathroom scene](./gi25-eco-019.md) (`gi25-eco-019`)
 - [Scandinavian living room from sketch layout](./gi25-gen-011.md) (`gi25-gen-011`)
 - [Sketch to landing-page hero leave headline space](./gi25-ui-007.md) (`gi25-ui-007`)
 - [Sketch-to-photoreal boutique hotel lobby](./gi25-gen-012.md) (`gi25-gen-012`)

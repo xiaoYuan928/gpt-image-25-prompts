@@ -1,6 +1,6 @@
 # NOTICE — Third-party prompt sources
 
-Collected: **2026-09-11** (Asia/Shanghai).
+Collected: **2026-09-14** (Asia/Shanghai).
 
 This repository aggregates publicly published prompt examples for GPT Image 2.5
 (Flare / Sunburst) education and API testing. Scaffolding is MIT; prompt text is
@@ -10,10 +10,11 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 
 | URL | source | authors | prompts | license note |
 |---|---|---|---:|---|
-| https://github.com/liuyaanng/awesome-gpt-image-2.5 (X originals linked per-record) | community | @8co28 (via liuyaanng/awesome-gpt-image-2.5); @Aqsahere_ (via liuyaanng/awesome-gpt-image-2.5); @BAXSCTO (via liuyaanng/awesome-gpt-image-2.5); @BubbleBrain (via liuyaanng/awesome-gpt-image-2.5); @Fomsky_Wei (via liuyaanng/awesome-gpt-image-2.5); @Goodmanprotocol (via liuyaanng/awesome-gpt-image-2.5); … (+25) | 55 | Community X post mirrored in awesome-gpt-image-2.5; remix with attribution |
-| https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts | community | @AllaAisling (via EvoLinkAI); @Ciri_ai (via EvoLinkAI); @Diplomeme (via EvoLinkAI); @Gdgtify (via EvoLinkAI); @KimAkiyama81 (via EvoLinkAI); @Mind_Boticni (via EvoLinkAI); … (+11) | 24 | CC0-1.0 (EvoLink catalog); original X post — remix with attribution |
+| https://github.com/liuyaanng/awesome-gpt-image-2.5 (X originals linked per-record) | community | @VoxcatAI; @Goodmanprotocol; @ImagineArt_X; @weiinberg; @meng_dagg695; @saniaspeaks_; … (+26) | 60 | Community X post mirrored in awesome-gpt-image-2.5; remix with attribution |
+| https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts | community | @Strength04_X; @Gdgtify; @iamaiistudio; @neural_aperture; @Ciri_ai; @WanderingC76; … (+11) | 24 | CC0-1.0 (EvoLink catalog); original X post — remix with attribution |
 | https://developers.openai.com/api/docs/guides/image-prompting | openai-docs | OpenAI | 23 | OpenAI docs examples |
 | https://fal.ai/learn/tools/prompting-gpt-image-2 | vendor-blog | Ilker Izgi / fal | 13 | fal blog examples; adapt for 2.5 |
+| https://felo.ai/blog/gpt-image-2-5-use-cases/ | vendor-blog | Felo Search Blog | 12 | Felo blog copy-paste examples; remix with attribution |
 | https://pixverse.ai/zh/blog/gpt-image-2-review-and-prompt-guide | vendor-blog | PixVerse | 10 | PixVerse blog copy-ready examples |
 | https://help.apiyi.com/gpt-image-2-xiaohongshu-infographic-content-creation-guide.html | vendor-blog | APIYI 技术团队 | 6 | blog code example prompt |
 | https://promptessor.com/blog/gpt-image-2-5-prompting-guide | vendor-blog | Rizki Murtadha / PrompTessor | 6 | PrompTessor blog examples; remix with attribution |
@@ -26,7 +27,7 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 | https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway | vendor-blog | Rohan Taneja, Zachary Chen, Jerilyn Zheng / Vercel | 2 | Vercel changelog example; remix with attribution |
 | https://chatgpt.com/s/p_659f135ed2ec8191a208f4f16a769813 | community | OpenAI / ChatGPT shared prompt | 1 | ChatGPT shared prompt; Linked from OpenAI Images 2.5 announcement |
 | https://docs.jiling.cc/templates/xiaohongshu-saveable-cover.html | community | 机灵助手 / docs.jiling.cc | 1 | template page; reuse with attribution |
-| https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts | github | かみいずみさω (via Toolcentral-ai) | 1 | source-attributed catalog |
+| https://github.com/Toolcentral-ai/awesome-gpt-image-2-prompts | github | かみいずみさω | 1 | source-attributed catalog |
 | https://seminarsonly.com/news/80s-chat-gpt-prompt/ | community | Seminarsonly.com | 1 | Blog copy-ready example; remix with attribution |
 
 ## Mapping notes
@@ -34,10 +35,11 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 - Collected fields `title_en` / `title_zh` → `title.en` / `title.zh`.
 - Collected `attribution.source_type` → `attribution.source`.
 - Collected `attribution.license_guess` → `attribution.license`.
-- Records set `remix_allowed: true` and `collected_at` on their harvest day (`2026-09-09`, `2026-09-10`, or `2026-09-11`).
+- Records set `remix_allowed: true` and `collected_at` on their harvest day (`2026-09-09`, `2026-09-10`, `2026-09-11`, or `2026-09-14`).
 - Prefer official OpenAI Image prompting examples as canonical for structure.
 - Community / vendor rows may be GPT Image 2–era or 2.5 launch-week; see per-record `notes`.
 - X/Twitter originals are linked in `attribution.url` for `gi25-x-*` records; preview images may be cached from EvoLink or liuyaanng mirrors.
+- 2026-09-14 harvest: remaining verifiable liuyaanng community X prompts (#017, #055–#058 via media ALT) plus Felo Search Blog use-case prompts.
 
 ## Disclaimer
 

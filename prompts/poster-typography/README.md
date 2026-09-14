@@ -4,7 +4,7 @@ Posters, ads, and layouts that need exact on-image text.
 
 _需要精确出字的海报、广告与版式。_
 
-**Prompts in this category:** 45
+**Prompts in this category:** 49
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [24h diner menu board exact categories](./gi25-typ-005.md) (`gi25-typ-005`)
@@ -27,12 +27,15 @@ _需要精确出字的海报、广告与版式。_
 - [Folk Papercraft Scene Remix](./gi25-x-003.md) (`gi25-x-003`)
 - [FRAME 2026 design conference poster](./gi25-typ-008.md) (`gi25-typ-008`)
 - [Heat pump educational infographic with exact labels](./gi25-typ-011.md) (`gi25-typ-011`)
+- [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
 - [How image prompts work infographic](./gi25-typ-007.md) (`gi25-typ-007`)
 - [Industrial Design Presentation Sheet](./gi25-x-019.md) (`gi25-x-019`)
 - [Infinite Love Concert Poster](./gi25-x-009.md) (`gi25-x-009`)
 - [LINE-style 16-frame sticker animation](./gi25-x-075.md) (`gi25-x-075`)
 - [Localise the on-image copy only](./gi25-x-043.md) (`gi25-x-043`)
 - [Magical Seed Packet Diorama](./gi25-x-017.md) (`gi25-x-017`)
+- [Midnight Run night-run event poster](./gi25-typ-013.md) (`gi25-typ-013`)
+- [Morning Blend coffee bag — three language variants](./gi25-eco-020.md) (`gi25-eco-020`)
 - [New Intelligence Editorial Poster](./gi25-x-012.md) (`gi25-x-012`)
 - [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
@@ -43,6 +46,7 @@ _需要精确出字的海报、广告与版式。_
 - [Sound you can feel speaker ad](./gi25-eco-006.md) (`gi25-eco-006`)
 - [Stone wireless earbuds museum archive](./gi25-eco-003.md) (`gi25-eco-003`)
 - [Storefront glass: reflection plus etched type](./gi25-x-036.md) (`gi25-x-036`)
+- [Sunday Supper rooftop dinner poster](./gi25-typ-012.md) (`gi25-typ-012`)
 - [Ten-panel storyboard for an autumn pyjama ad](./gi25-x-037.md) (`gi25-x-037`)
 - [Thread streetwear campaign with exact tagline](./gi25-typ-001.md) (`gi25-typ-001`)
 - [Turn a rough sketch into a clean diagram](./gi25-x-070.md) (`gi25-x-070`)
