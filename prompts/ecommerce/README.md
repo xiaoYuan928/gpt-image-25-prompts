@@ -4,7 +4,7 @@ Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 48
+**Prompts in this category:** 55
 
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
 - [Apply flat artwork onto a real product surface](./gi25-x-066.md) (`gi25-x-066`)
@@ -17,12 +17,15 @@ _电商主图、营销广告、货架包装图。_
 - [Dense frame: six-model fashion campaign](./gi25-x-023.md) (`gi25-x-023`)
 - [Drop a fixed product shot into a new scene](./gi25-x-040.md) (`gi25-x-040`)
 - [Earbuds E-commerce Infographic](./gi25-x-016.md) (`gi25-x-016`)
+- [Ecommerce hero: preserve steel bottle from ref](./gi25-edit-034.md) (`gi25-edit-034`)
+- [Fashion Ad with Tilted Ground Shot](./gi25-x-091.md) (`gi25-x-091`)
 - [Glass perfume bottle on pale stone (morning light)](./gi25-eco-014.md) (`gi25-eco-014`)
 - [Gourmet cheeseburger cinematic hero](./gi25-eco-008.md) (`gi25-eco-008`)
 - [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
 - [Industrial Design Presentation Sheet](./gi25-x-019.md) (`gi25-x-019`)
 - [LUMEN hydrating serum studio packshot](./gi25-eco-017.md) (`gi25-eco-017`)
 - [Magical Seed Packet Diorama](./gi25-x-017.md) (`gi25-x-017`)
+- [Matte black bottle product shot for later edits](./gi25-eco-021.md) (`gi25-eco-021`)
 - [Matte black mechanical keyboard product photo](./gi25-eco-015.md) (`gi25-eco-015`)
 - [Matte black speaker ecommerce hero](./gi25-eco-004.md) (`gi25-eco-004`)
 - [Miniature diorama skincare LUXEVEIL ad](./gi25-eco-007.md) (`gi25-eco-007`)
@@ -30,6 +33,9 @@ _电商主图、营销广告、货架包装图。_
 - [Morning Blend coffee bag — three language variants](./gi25-eco-020.md) (`gi25-eco-020`)
 - [Multi-ref product into style scene](./gi25-edit-013.md) (`gi25-edit-013`)
 - [Multi-ref product photo apply style reference](./gi25-edit-017.md) (`gi25-edit-017`)
+- [Multi-turn: add eucalyptus sprig beside bottle](./gi25-edit-030.md) (`gi25-edit-030`)
+- [Multi-turn: deepen contrast without drift](./gi25-edit-031.md) (`gi25-edit-031`)
+- [Multi-turn: wet evening on bottle ledge](./gi25-edit-029.md) (`gi25-edit-029`)
 - [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
 - [Oatmeal knit sweater lookbook on-model shot](./gi25-eco-018.md) (`gi25-eco-018`)
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
@@ -44,6 +50,7 @@ _电商主图、营销广告、货架包装图。_
 - [Storefront glass: reflection plus etched type](./gi25-x-036.md) (`gi25-x-036`)
 - [Surgical packaging copy: Daily → Mineral Hydration](./gi25-edit-019.md) (`gi25-edit-019`)
 - [Sustainable T-Shirt Plantable Tag Ad](./gi25-x-015.md) (`gi25-x-015`)
+- [Swap bottle background to warm sand studio](./gi25-edit-023.md) (`gi25-edit-023`)
 - [Ten-panel storyboard for an autumn pyjama ad](./gi25-x-037.md) (`gi25-x-037`)
 - [Thread streetwear campaign with exact tagline](./gi25-typ-001.md) (`gi25-typ-001`)
 - [TikTok live stream frame with a reference person](./gi25-x-059.md) (`gi25-x-059`)

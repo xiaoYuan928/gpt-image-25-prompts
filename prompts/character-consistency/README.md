@@ -4,13 +4,19 @@ Identity-preserving characters across poses and scenes.
 
 _跨姿势与场景保持身份一致的角色。_
 
-**Prompts in this category:** 35
+**Prompts in this category:** 44
 
 - [128px combat-return sprite sheet](./gi25-x-073.md) (`gi25-x-073`)
+- [Ancient Chinese Fashion Photography Grid](./gi25-x-087.md) (`gi25-x-087`)
+- [Anime archivist keyframe with moon-seal envelope](./gi25-char-009.md) (`gi25-char-009`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
+- [Asymmetric High-Fashion Studio Portrait](./gi25-x-090.md) (`gi25-x-090`)
 - [Character combat-action pixel sprite sheet](./gi25-x-056.md) (`gi25-x-056`)
 - [Children book forest hero character establish](./gi25-char-001.md) (`gi25-char-001`)
 - [Continue forest hero squirrel rescue](./gi25-char-002.md) (`gi25-char-002`)
+- [Dream Of Red Mansions Long Scroll](./gi25-x-081.md) (`gi25-x-081`)
+- [Dress subject from clothing reference images](./gi25-edit-028.md) (`gi25-edit-028`)
+- [Edit: navy coat to beige field jacket](./gi25-edit-032.md) (`gi25-edit-032`)
 - [Four-panel pet comic reel](./gi25-gen-004.md) (`gi25-gen-004`)
 - [Four-panel skater comic strip](./gi25-char-008.md) (`gi25-char-008`)
 - [Four-style reference grid of the same person](./gi25-char-006.md) (`gi25-char-006`)
@@ -18,6 +24,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [High-key tactical studio portrait](./gi25-x-079.md) (`gi25-x-079`)
 - [LINE-style 16-frame sticker animation](./gi25-x-075.md) (`gi25-x-075`)
 - [Low-angle fantasy character fashion photography](./gi25-x-024.md) (`gi25-x-024`)
+- [Multi-ref roles: identity, clothing, lighting](./gi25-edit-033.md) (`gi25-edit-033`)
 - [Natural head-and-shoulders reference portrait](./gi25-char-005.md) (`gi25-char-005`)
 - [Neo-Noir Character Design Board](./gi25-x-008.md) (`gi25-x-008`)
 - [Neon 80s Portrait (viral shared prompt)](./gi25-gen-009.md) (`gi25-gen-009`)
@@ -29,6 +36,8 @@ _跨姿势与场景保持身份一致的角色。_
 - [Oatmeal knit sweater lookbook on-model shot](./gi25-eco-018.md) (`gi25-eco-018`)
 - [Person into bear campsite action scene](./gi25-edit-007.md) (`gi25-edit-007`)
 - [Pixel heroine, eight seconds of continuous action](./gi25-x-072.md) (`gi25-x-072`)
+- [Place subject on wooden pier at dusk](./gi25-edit-027.md) (`gi25-edit-027`)
+- [Realistic Fashion Photo of East Asian Woman](./gi25-x-084.md) (`gi25-x-084`)
 - [Replace a single garment, keep everything else](./gi25-x-042.md) (`gi25-x-042`)
 - [Resin figure 360° split-screen animation](./gi25-x-032.md) (`gi25-x-032`)
 - [Retro silkscreen character poster](./gi25-x-021.md) (`gi25-x-021`)

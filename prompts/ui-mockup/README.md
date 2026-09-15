@@ -4,7 +4,7 @@ Mobile and web interface mockups with readable chrome.
 
 _可读控件的移动端与网页界面稿。_
 
-**Prompts in this category:** 22
+**Prompts in this category:** 24
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [Action Storyboard Sheet](./gi25-x-001.md) (`gi25-x-001`)
@@ -20,6 +20,8 @@ _可读控件的移动端与网页界面稿。_
 - [NESTING mobile onboarding screen](./gi25-ui-004.md) (`gi25-ui-004`)
 - [Place a UI screenshot into a premium device scene](./gi25-x-041.md) (`gi25-x-041`)
 - [Prompt-management SaaS desktop UI preview](./gi25-ui-008.md) (`gi25-ui-008`)
+- [Realistic Fashion Photo of East Asian Woman](./gi25-x-084.md) (`gi25-x-084`)
+- [Realistic iPhone Photo of Tesla Model Y](./gi25-x-088.md) (`gi25-x-088`)
 - [Replace latency chart with error-rate bars](./gi25-edit-021.md) (`gi25-edit-021`)
 - [Series A Market Opportunity pitch slide](./gi25-typ-003.md) (`gi25-typ-003`)
 - [Sitcom Intro Storyboard Sheet](./gi25-x-006.md) (`gi25-x-006`)

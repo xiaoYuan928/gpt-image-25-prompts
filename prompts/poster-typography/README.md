@@ -4,7 +4,7 @@ Posters, ads, and layouts that need exact on-image text.
 
 _需要精确出字的海报、广告与版式。_
 
-**Prompts in this category:** 49
+**Prompts in this category:** 57
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [24h diner menu board exact categories](./gi25-typ-005.md) (`gi25-typ-005`)
@@ -23,10 +23,12 @@ _需要精确出字的海报、广告与版式。_
 - [Dense frame: six-panel newspaper comic](./gi25-x-046.md) (`gi25-x-046`)
 - [Dense frame: Welsh post office notice board](./gi25-x-047.md) (`gi25-x-047`)
 - [Earbuds E-commerce Infographic](./gi25-x-016.md) (`gi25-x-016`)
+- [Espresso Machine Technical Drawing](./gi25-x-092.md) (`gi25-x-092`)
 - [Field & Flour bakery logo transparent](./gi25-cut-001.md) (`gi25-cut-001`)
 - [Folk Papercraft Scene Remix](./gi25-x-003.md) (`gi25-x-003`)
 - [FRAME 2026 design conference poster](./gi25-typ-008.md) (`gi25-typ-008`)
 - [Heat pump educational infographic with exact labels](./gi25-typ-011.md) (`gi25-typ-011`)
+- [Heat pump instructional diagram (four stages)](./gi25-typ-015.md) (`gi25-typ-015`)
 - [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
 - [How image prompts work infographic](./gi25-typ-007.md) (`gi25-typ-007`)
 - [Industrial Design Presentation Sheet](./gi25-x-019.md) (`gi25-x-019`)
@@ -39,6 +41,11 @@ _需要精确出字的海报、广告与版式。_
 - [New Intelligence Editorial Poster](./gi25-x-012.md) (`gi25-x-012`)
 - [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
+- [Poster exact text THE LAST ARCHIVE](./gi25-typ-016.md) (`gi25-typ-016`)
+- [Premium Editorial Art Poster for a Location](./gi25-x-089.md) (`gi25-x-089`)
+- [Realistic Fashion Photo of East Asian Woman](./gi25-x-084.md) (`gi25-x-084`)
+- [Recruitment poster GROW WITH US](./gi25-typ-014.md) (`gi25-typ-014`)
+- [Replace poster subline Sundays from ten](./gi25-edit-026.md) (`gi25-edit-026`)
 - [Retro silkscreen character poster](./gi25-x-021.md) (`gi25-x-021`)
 - [Series A Market Opportunity pitch slide](./gi25-typ-003.md) (`gi25-typ-003`)
 - [Shampoo highway billboard Fresh and clean](./gi25-eco-001.md) (`gi25-eco-001`)
@@ -50,6 +57,7 @@ _需要精确出字的海报、广告与版式。_
 - [Ten-panel storyboard for an autumn pyjama ad](./gi25-x-037.md) (`gi25-x-037`)
 - [Thread streetwear campaign with exact tagline](./gi25-typ-001.md) (`gi25-typ-001`)
 - [Turn a rough sketch into a clean diagram](./gi25-x-070.md) (`gi25-x-070`)
+- [Typography Poster and Magazine Cover](./gi25-x-086.md) (`gi25-x-086`)
 - [Ufa Travel Sticker Poster](./gi25-x-010.md) (`gi25-x-010`)
 - [Watermelon Lime Beverage Ad Poster](./gi25-x-013.md) (`gi25-x-013`)
 - [Whispers in the Crowd Poster](./gi25-x-011.md) (`gi25-x-011`)
