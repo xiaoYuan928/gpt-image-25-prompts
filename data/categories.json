@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-09-18",
+  "collected_at": "2026-09-21",
   "categories": [
     {
       "id": "ecommerce",
@@ -12,7 +12,7 @@
         "en": "Hero shots, campaign ads, packshots for retail listing pages.",
         "zh": "电商主图、营销广告、货架包装图。"
       },
-      "count": 64
+      "count": 67
     },
     {
       "id": "xiaohongshu",
@@ -24,7 +24,7 @@
         "en": "3:4 covers, infographics, and Chinese typography for RED.",
         "zh": "小红书 3:4 封面、信息图与中文排版。"
       },
-      "count": 9
+      "count": 10
     },
     {
       "id": "poster-typography",
@@ -36,7 +36,7 @@
         "en": "Posters, ads, and layouts that need exact on-image text.",
         "zh": "需要精确出字的海报、广告与版式。"
       },
-      "count": 78
+      "count": 85
     },
     {
       "id": "product-cutout",
@@ -48,7 +48,7 @@
         "en": "Isolated products on transparent or studio backgrounds.",
         "zh": "透明底或棚拍底上的产品抠图。"
       },
-      "count": 11
+      "count": 13
     },
     {
       "id": "ui-mockup",
@@ -72,7 +72,7 @@
         "en": "Identity-preserving characters across poses and scenes.",
         "zh": "跨姿势与场景保持身份一致的角色。"
       },
-      "count": 68
+      "count": 82
     },
     {
       "id": "edit-change-preserve",
@@ -84,7 +84,7 @@
         "en": "Surgical edits that change one thing and preserve the rest.",
         "zh": "只改一件事、其余尽量保持的局部编辑。"
       },
-      "count": 87
+      "count": 94
     },
     {
       "id": "flare-vs-sunburst",
@@ -108,7 +108,8 @@
         "en": "General photoreal and documentary-style generations.",
         "zh": "通用写实与纪实风格生成。"
       },
-      "count": 83
+      "count": 98
     }
-  ]
+  ],
+  "entry_count": 311
 }
