@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "collected_at": "2026-09-24",
+  "collected_at": "2026-09-25",
   "categories": [
     {
       "id": "ecommerce",
@@ -12,7 +12,7 @@
         "en": "Hero shots, campaign ads, packshots for retail listing pages.",
         "zh": "电商主图、营销广告、货架包装图。"
       },
-      "count": 76
+      "count": 80
     },
     {
       "id": "xiaohongshu",
@@ -36,7 +36,7 @@
         "en": "Posters, ads, and layouts that need exact on-image text.",
         "zh": "需要精确出字的海报、广告与版式。"
       },
-      "count": 119
+      "count": 129
     },
     {
       "id": "product-cutout",
@@ -60,7 +60,7 @@
         "en": "Mobile and web interface mockups with readable chrome.",
         "zh": "可读控件的移动端与网页界面稿。"
       },
-      "count": 29
+      "count": 30
     },
     {
       "id": "character-consistency",
@@ -72,7 +72,7 @@
         "en": "Identity-preserving characters across poses and scenes.",
         "zh": "跨姿势与场景保持身份一致的角色。"
       },
-      "count": 132
+      "count": 162
     },
     {
       "id": "edit-change-preserve",
@@ -84,7 +84,7 @@
         "en": "Surgical edits that change one thing and preserve the rest.",
         "zh": "只改一件事、其余尽量保持的局部编辑。"
       },
-      "count": 108
+      "count": 121
     },
     {
       "id": "flare-vs-sunburst",
@@ -108,7 +108,7 @@
         "en": "General photoreal and documentary-style generations.",
         "zh": "通用写实与纪实风格生成。"
       },
-      "count": 160
+      "count": 182
     }
   ],
   "entry_count": 341
