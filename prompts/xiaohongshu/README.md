@@ -4,10 +4,15 @@
 
 _小红书 3:4 封面、信息图与中文排版。_
 
-**Prompts in this category:** 9
+**Prompts in this category:** 14
 
 - [Chinese wildlife endangered animal infographic](./gi25-ui-006.md) (`gi25-ui-006`)
+- [Daytime Highlight CCD: Wind Installation Plaza Lifestyle](../character-consistency/gi25-x-352.md) (`gi25-x-352`)
 - [How image prompts work infographic](./gi25-typ-007.md) (`gi25-typ-007`)
+- [Mid-Autumn Poster “Moonfull Joy” — Zen Minimal](../poster-typography/gi25-x-266.md) (`gi25-x-266`)
+- [National Day Moments: 12 Holiday Photo Playbooks](../edit-change-preserve/gi25-x-358.md) (`gi25-x-358`)
+- [Oriental Zen Minimal Wallpaper「帘卷新晴」](../poster-typography/gi25-x-360.md) (`gi25-x-360`)
+- [Pomegranate Encyclopedic Specimen Info Card](../poster-typography/gi25-x-192.md) (`gi25-x-192`)
 - [Xiaohongshu AI drawing tools cover example](./gi25-xhs-006.md) (`gi25-xhs-006`)
 - [Xiaohongshu checklist cover](./gi25-xhs-005.md) (`gi25-xhs-005`)
 - [Xiaohongshu data visualization card](./gi25-xhs-004.md) (`gi25-xhs-004`)

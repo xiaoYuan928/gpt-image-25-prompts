@@ -4,12 +4,15 @@ Mobile and web interface mockups with readable chrome.
 
 _可读控件的移动端与网页界面稿。_
 
-**Prompts in this category:** 24
+**Prompts in this category:** 30
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [Action Storyboard Sheet](./gi25-x-001.md) (`gi25-x-001`)
+- [Animals Rebuilt with Luxury Fashion Fabrics](./gi25-x-295.md) (`gi25-x-295`)
 - [API analytics dashboard mockup (dark theme)](./gi25-ui-009.md) (`gi25-ui-009`)
 - [Brand Identity Guideline Board](./gi25-x-007.md) (`gi25-x-007`)
+- [Candid Camera Roll Grid](../general/gi25-x-121.md) (`gi25-x-121`)
+- [Chinese Creative Agency Website Long Screenshot](./gi25-x-231.md) (`gi25-x-231`)
 - [Chinese wildlife endangered animal infographic](./gi25-ui-006.md) (`gi25-ui-006`)
 - [DAYBREAK minimalist to-do app screenshot](./gi25-ui-002.md) (`gi25-ui-002`)
 - [Energy Drink Storyboard Grid](./gi25-x-005.md) (`gi25-x-005`)
@@ -29,4 +32,7 @@ _可读控件的移动端与网页界面稿。_
 - [Skincare UGC Storyboard Board](./gi25-x-004.md) (`gi25-x-004`)
 - [SQL Collectible Toy Packaging Grid](./gi25-x-002.md) (`gi25-x-002`)
 - [TikTok live stream frame with a reference person](./gi25-x-059.md) (`gi25-x-059`)
+- [Tokyo Trip iPhone Photo Album Screenshots](../character-consistency/gi25-x-129.md) (`gi25-x-129`)
 - [UGC first frame: phone showing the app](./gi25-x-035.md) (`gi25-x-035`)
+- [Website Visual Mockup from Brief then Codex](./gi25-x-262.md) (`gi25-x-262`)
+- [Y2K K-Pop Desktop Music Video Frame](../character-consistency/gi25-x-339.md) (`gi25-x-339`)

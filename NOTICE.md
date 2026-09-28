@@ -1,6 +1,6 @@
 # NOTICE — Third-party prompt sources
 
-Collected: **2026-09-25** (Asia/Shanghai).
+Collected: **2026-09-28** (Asia/Shanghai).
 
 This repository aggregates publicly published prompt examples for GPT Image 2.5
 (Flare / Sunburst) education and API testing. Scaffolding is MIT; prompt text is
@@ -10,7 +10,7 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 
 | URL | source | authors | prompts | license note |
 |---|---|---|---:|---|
-| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+49) | 84 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix with attribution |
+| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+53) | 95 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix with attribution |
 | https://github.com/liuyaanng/awesome-gpt-image-2.5 | community | @VoxcatAI; @Goodmanprotocol; @ImagineArt_X; @weiinberg; @meng_dagg695; @saniaspeaks_; … (+32) | 67 | Community X post mirrored in awesome-gpt-image-2.5; remix with attribution |
 | https://github.com/PhiMaker5/awesome-gpt-image-2.5-prompts | community | @JohnnyWang8802; @johnAGI168; @AIqoro; @eyishazyer; @TechieBySA; @livybabie; … (+38) | 67 | Community X post mirrored in PhiMaker5/awesome-gpt-image-2.5-prompts; remix with attribution |
 | https://github.com/SeeAPI/awesome-gpt-image-2.5-prompts | community | @Naiknelofar788; @DeepBlueX0; @MrLarus; @ZHO_ZHO_ZHO; @johnAGI168; @liyue_ai; … (+37) | 61 | Community X post mirrored in SeeAPI/awesome-gpt-image-2.5-prompts; remix with attribution |
@@ -29,6 +29,7 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 | https://learn.chatgpt.com/docs/image-generation | openai-docs | OpenAI (ChatGPT Learn) | 4 | OpenAI docs / ChatGPT Learn examples |
 | https://apidog.com/blog/gpt-image-2-5-api | vendor-blog | INEZA Felin-Michel / Apidog | 4 | Apidog blog API examples; remix with attribution |
 | https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts | community | @MrGafish; @iamsofiaijaz; @iamaiistudio; @GeekCatX | 4 | Community X post mirrored in youart-open-source/awesome-gpt-image-2-5-prompts; remix with attribution |
+| https://github.com/magiccreator-ai/awesome-gpt-image-2-5-prompts | community | @Mayz1169; @thefinnmckenty; @techhalla; @agi_aibusi | 4 | Community X post mirrored in magiccreator-ai/awesome-gpt-image-2-5-prompts; remix with attribution |
 | https://github.com/1229119561Weike/awesome-gpt-image-2-5 | community | @DeepBlueX0; @AllkeyArt; @dreamydigiarts | 3 | Community X post mirrored in 1229119561Weike/awesome-gpt-image-2-5; remix with attribution |
 | https://docs.kanaries.net/articles/gpt-image-2-5 | vendor-blog | Kanaries | 2 | Kanaries blog example; adapt freely with attribution |
 | https://ofox.ai/blog/gpt-image-2-5-api-guide | vendor-blog | Ofox | 2 | Ofox blog API example |
