@@ -1,17 +1,18 @@
-# Xiaohongshu / Chinese social / 小红书与中文社媒
+# Xiaohongshu / 小红书
 
 3:4 covers, infographics, and Chinese typography for RED.
 
 _小红书 3:4 封面、信息图与中文排版。_
 
-**Prompts in this category:** 14
+**Prompts in this category:** 15
 
 - [Chinese wildlife endangered animal infographic](./gi25-ui-006.md) (`gi25-ui-006`)
 - [Daytime Highlight CCD: Wind Installation Plaza Lifestyle](../character-consistency/gi25-x-352.md) (`gi25-x-352`)
-- [How image prompts work infographic](./gi25-typ-007.md) (`gi25-typ-007`)
+- [How image prompts work infographic](../poster-typography/gi25-typ-007.md) (`gi25-typ-007`)
 - [Mid-Autumn Poster “Moonfull Joy” — Zen Minimal](../poster-typography/gi25-x-266.md) (`gi25-x-266`)
 - [National Day Moments: 12 Holiday Photo Playbooks](../edit-change-preserve/gi25-x-358.md) (`gi25-x-358`)
 - [Oriental Zen Minimal Wallpaper「帘卷新晴」](../poster-typography/gi25-x-360.md) (`gi25-x-360`)
+- [Photo to Minimal Illustration Memory Card 3:4](../edit-change-preserve/gi25-x-376.md) (`gi25-x-376`)
 - [Pomegranate Encyclopedic Specimen Info Card](../poster-typography/gi25-x-192.md) (`gi25-x-192`)
 - [Xiaohongshu AI drawing tools cover example](./gi25-xhs-006.md) (`gi25-xhs-006`)
 - [Xiaohongshu checklist cover](./gi25-xhs-005.md) (`gi25-xhs-005`)
@@ -20,3 +21,4 @@ _小红书 3:4 封面、信息图与中文排版。_
 - [Xiaohongshu product comparison card](./gi25-xhs-002.md) (`gi25-xhs-002`)
 - [Xiaohongshu saveable collage cover](./gi25-xhs-007.md) (`gi25-xhs-007`)
 - [Xiaohongshu tutorial 3-step card](./gi25-xhs-003.md) (`gi25-xhs-003`)
+
