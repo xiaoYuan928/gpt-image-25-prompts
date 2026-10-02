@@ -1,6 +1,6 @@
 # NOTICE — Third-party prompt sources
 
-Collected: **2026-10-01** (Asia/Shanghai).
+Collected: **2026-10-02** (Asia/Shanghai).
 
 This repository aggregates publicly published prompt examples for GPT Image 2.5
 (Flare / Sunburst) education and API testing. Scaffolding is MIT; prompt text is
@@ -10,36 +10,36 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 
 | URL | source | authors | prompts | license note |
 |---|---|---|---:|---|
-| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+96) | 201 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix with attri… |
-| https://github.com/PhiMaker5/awesome-gpt-image-2.5-prompts | community | @JohnnyWang8802; @johnAGI168; @AIqoro; @eyishazyer; @TechieBySA; @livybabie; … (+39) | 73 | Community X post mirrored in PhiMaker5/awesome-gpt-image-2.5-prompts; remix w… |
-| https://github.com/liuyaanng/awesome-gpt-image-2.5 | community | @VoxcatAI; @Goodmanprotocol; @ImagineArt_X; @weiinberg; @meng_dagg695; @saniaspeaks_; … (+32) | 67 | Community X post mirrored in awesome-gpt-image-2.5; remix with attribution |
-| https://github.com/SeeAPI/awesome-gpt-image-2.5-prompts | community | @Naiknelofar788; @DeepBlueX0; @MrLarus; @ZHO_ZHO_ZHO; @johnAGI168; @liyue_ai; … (+39) | 66 | Community post mirrored in SeeAPI/awesome-gpt-image-2.5-prompts; remix with a… |
+| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+104) | 233 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix wi… |
+| https://github.com/PhiMaker5/awesome-gpt-image-2.5-prompts | community | @JohnnyWang8802; @johnAGI168; @AIqoro; @eyishazyer; @TechieBySA; @livybabie; … (+39) | 77 | Community X post mirrored in PhiMaker5/awesome-gpt-image-2.5-prompts;… |
+| https://github.com/liuyaanng/awesome-gpt-image-2.5 | community | @VoxcatAI; @Goodmanprotocol; @ImagineArt_X; @weiinberg; @meng_dagg695; @saniaspeaks_; … (+32) | 67 | Community X post mirrored in awesome-gpt-image-2.5; remix with attrib… |
+| https://github.com/SeeAPI/awesome-gpt-image-2.5-prompts | community | @Naiknelofar788; @DeepBlueX0; @MrLarus; @ZHO_ZHO_ZHO; @johnAGI168; @liyue_ai; … (+39) | 66 | Community post mirrored in SeeAPI/awesome-gpt-image-2.5-prompts; remi… |
 | https://github.com/EvoLinkAI | community | @Strength04_X; @Gdgtify; @iamaiistudio; @neural_aperture; @Ciri_ai; @WanderingC76; … (+11) | 24 | CC0-1.0 (EvoLink catalog); original X post — remix with attribution |
-| https://developers.openai.com/api/docs/guides/image-prompting | openai-docs | @OpenAI | 23 | OpenAI docs examples |
-| https://github.com/renoise-ai/awesome-gpt-image-2-5-prompts | community | @cherie899222; @morphedai; @NguynTu135869; @ou_zhen599; @modelstoreai; @DeepBlueX0; … (+12) | 22 | Community X post mirrored in renoise-ai/awesome-gpt-image-2-5-prompts; remix … |
-| https://fal.ai/learn/tools/prompting-gpt-image-2 | vendor-blog | @Ilker | 13 | fal blog examples; adapt for 2.5 |
-| https://felo.ai/blog/gpt-image-2-5-use-cases | vendor-blog | @Felo | 12 | Felo blog copy-paste examples; remix with attribution |
-| https://picsart.com/blog/how-to-prompt-gpt-image-2-5 | vendor-blog | @Julia | 12 | Picsart blog copy-paste examples; remix with attribution |
-| https://github.com/opensource-works/awesome-gpt-image-prompts | community | @jzaib4269; @KrishnaBio1; @abxxai; @miratechtool; @LiEvanna85716; @chetaslua; … (+3) | 10 | Community X post mirrored in opensource-works/awesome-gpt-image-prompts; remi… |
-| https://pixverse.ai/zh/blog/gpt-image-2-review-and-prompt-guide | vendor-blog | @PixVerse | 10 | PixVerse blog copy-ready examples |
-| https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts | community | @jackzhang123vip; @HoodyLiu; @AdrianPunk115; @minchoi; @nett0eth; @higgsfield; … (+2) | 8 | Community X post mirrored in wangrunlin/awesome-gpt-image-2-5-prompts; remix … |
-| https://help.apiyi.com/gpt-image-2-xiaohongshu-infographic-content-creation-guide.html | vendor-blog | @APIYI | 6 | blog code example prompt |
-| https://promptessor.com/blog/gpt-image-2-5-prompting-guide | vendor-blog | @Rizki | 6 | PrompTessor blog examples; remix with attribution |
-| https://www.elser.ai/blog/gpt-image-2-5-prompt-guide | vendor-blog | @Elser | 5 | Elser blog examples; remix with attribution |
-| https://apidog.com/blog/gpt-image-2-5-api | vendor-blog | @INEZA | 4 | Apidog blog API examples; remix with attribution |
-| https://github.com/LeaddeOpenLab/awesome-gpt-image-2-5-prompts | community | @lovimg_com; @CyberTotal2026; @TanLuAI; @hey_am_cherry | 4 | Community X post mirrored in LeaddeOpenLab/awesome-gpt-image-2-5-prompts; rem… |
-| https://github.com/magiccreator-ai/awesome-gpt-image-2-5-prompts | community | @Mayz1169; @thefinnmckenty; @techhalla; @agi_aibusi | 4 | Community X post mirrored in magiccreator-ai/awesome-gpt-image-2-5-prompts; r… |
-| https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts | community | @MrGafish; @iamsofiaijaz; @iamaiistudio; @GeekCatX | 4 | Community X post mirrored in youart-open-source/awesome-gpt-image-2-5-prompts… |
-| https://learn.chatgpt.com/docs/image-generation | openai-docs | @OpenAI | 4 | OpenAI docs / ChatGPT Learn examples |
-| https://github.com/1229119561Weike/awesome-gpt-image-2-5 | community | @DeepBlueX0; @AllkeyArt; @dreamydigiarts | 3 | Community X post mirrored in 1229119561Weike/awesome-gpt-image-2-5; remix wit… |
-| https://docs.kanaries.net/articles/gpt-image-2-5 | vendor-blog | @Kanaries | 2 | Kanaries blog example; adapt freely with attribution |
+| https://developers.openai.com/api/docs/guides/image-prompting | openai-docs | OpenAI | 23 | OpenAI docs examples |
+| https://github.com/renoise-ai/awesome-gpt-image-2-5-prompts | community | @cherie899222; @morphedai; @NguynTu135869; @ou_zhen599; @modelstoreai; @DeepBlueX0; … (+12) | 22 | Community X post mirrored in renoise-ai/awesome-gpt-image-2-5-prompts… |
+| https://fal.ai/learn/tools/prompting-gpt-image-2 | vendor-blog | Ilker Izgi / fal | 13 | fal blog examples; adapt for 2.5 |
+| https://felo.ai/blog/gpt-image-2-5-use-cases | vendor-blog | Felo Search Blog | 12 | Felo blog copy-paste examples; remix with attribution |
+| https://picsart.com/blog/how-to-prompt-gpt-image-2-5 | vendor-blog | Julia Tovmasyan / Picsart Blog | 12 | Picsart blog copy-paste examples; remix with attribution |
+| https://github.com/opensource-works/awesome-gpt-image-prompts | community | @jzaib4269; @KrishnaBio1; @abxxai; @miratechtool; @LiEvanna85716; @chetaslua; … (+3) | 10 | Community X post mirrored in opensource-works/awesome-gpt-image-promp… |
+| https://pixverse.ai/zh/blog/gpt-image-2-review-and-prompt-guide | vendor-blog | PixVerse | 10 | PixVerse blog copy-ready examples |
+| https://github.com/LeaddeOpenLab/awesome-gpt-image-2-5-prompts | community | @lovimg_com; @CyberTotal2026; @TanLuAI; @hey_am_cherry | 8 | Community X post mirrored in LeaddeOpenLab/awesome-gpt-image-2-5-prom… |
+| https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts | community | @jackzhang123vip; @HoodyLiu; @AdrianPunk115; @minchoi; @nett0eth; @higgsfield; … (+2) | 8 | Community X post mirrored in wangrunlin/awesome-gpt-image-2-5-prompts… |
+| https://help.apiyi.com/gpt-image-2-xiaohongshu-infographic-content-creation-guide.html | vendor-blog | APIYI 技术团队 | 6 | blog code example prompt |
+| https://promptessor.com/blog/gpt-image-2-5-prompting-guide | vendor-blog | Rizki Murtadha / PrompTessor | 6 | PrompTessor blog examples; remix with attribution |
+| https://www.elser.ai/blog/gpt-image-2-5-prompt-guide | vendor-blog | Elser AI Blog | 5 | Elser blog examples; remix with attribution |
+| https://apidog.com/blog/gpt-image-2-5-api | vendor-blog | INEZA Felin-Michel / Apidog | 4 | Apidog blog API examples; remix with attribution |
+| https://github.com/magiccreator-ai/awesome-gpt-image-2-5-prompts | community | @Mayz1169; @thefinnmckenty; @techhalla; @agi_aibusi | 4 | Community X post mirrored in magiccreator-ai/awesome-gpt-image-2-5-pr… |
+| https://github.com/youart-open-source/awesome-gpt-image-2-5-prompts | community | @MrGafish; @iamsofiaijaz; @iamaiistudio; @GeekCatX | 4 | Community X post mirrored in youart-open-source/awesome-gpt-image-2-5… |
+| https://learn.chatgpt.com/docs/image-generation | openai-docs | OpenAI (ChatGPT Learn) | 4 | OpenAI docs / ChatGPT Learn examples |
+| https://github.com/1229119561Weike/awesome-gpt-image-2-5 | community | @DeepBlueX0; @AllkeyArt; @dreamydigiarts | 3 | Community X post mirrored in 1229119561Weike/awesome-gpt-image-2-5; r… |
+| https://docs.kanaries.net/articles/gpt-image-2-5 | vendor-blog | Kanaries | 2 | Kanaries blog example; adapt freely with attribution |
 | https://findskill.ai/blog/chatgpt-images-2-5-sketch-tool-explained | vendor-blog | FindSkill.ai | 2 | FindSkill blog worked example |
-| https://imini.com/blogs/gpt-image-25-guide | vendor-blog | @iMini | 2 | iMini blog prompt formula example |
-| https://ofox.ai/blog/gpt-image-2-5-api-guide | vendor-blog | @Ofox | 2 | Ofox blog API example |
-| https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway | vendor-blog | @Rohan | 2 | Vercel changelog example; remix with attribution |
-| https://chatgpt.com/s/p_659f135ed2ec8191a208f4f16a769813 | community | @OpenAI | 1 | ChatGPT shared prompt; Linked from OpenAI Images 2.5 announcement |
+| https://imini.com/blogs/gpt-image-25-guide | vendor-blog | iMini AI | 2 | iMini blog prompt formula example |
+| https://ofox.ai/blog/gpt-image-2-5-api-guide | vendor-blog | Ofox | 2 | Ofox blog API example |
+| https://vercel.com/changelog/gpt-image-2-5-flare-and-sunburst-now-available-on-ai-gateway | vendor-blog | Rohan Taneja, Zachary Chen, Jerilyn Zheng / Vercel | 2 | Vercel changelog example; remix with attribution |
+| https://chatgpt.com/s/p_659f135ed2ec8191a208f4f16a769813 | community | OpenAI / ChatGPT shared prompt | 1 | ChatGPT shared prompt; Linked from OpenAI Images 2.5 announcement |
 | https://docs.jiling.cc/templates/xiaohongshu-saveable-cover.html | community | 机灵助手 / docs.jiling.cc | 1 | template page; reuse with attribution |
-| https://github.com/Toolcentral-ai | github | かみいずみさω (via Toolcentral-ai) | 1 | source-attributed catalog |
+| https://github.com/Toolcentral-ai | github | かみいずみさω | 1 | source-attributed catalog |
 | https://seminarsonly.com/news/80s-chat-gpt-prompt | community | Seminarsonly.com | 1 | Blog copy-ready example; remix with attribution |
 
 ## Notes

@@ -1,8 +1,8 @@
-# Product cutout / 抠图
+# Product cutout / transparent / 产品抠图 / 透明背景
 
-Transparent / isolated product shots.
+Isolated products on transparent or studio backgrounds.
 
-_透明底与抠图产品图。_
+_透明底或棚拍底上的产品抠图。_
 
 **Prompts in this category:** 14
 
@@ -20,4 +20,3 @@ _透明底与抠图产品图。_
 - [Transparent product cutout preserve label](./gi25-cut-004.md) (`gi25-cut-004`)
 - [Transparent product studio relighting](./gi25-x-109.md) (`gi25-x-109`)
 - [White earbuds pure ecommerce cutout](../ecommerce/gi25-eco-005.md) (`gi25-eco-005`)
-

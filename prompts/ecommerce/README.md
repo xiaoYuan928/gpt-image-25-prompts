@@ -1,10 +1,10 @@
-# Ecommerce / 电商
+# Ecommerce & product marketing / 电商主图与产品营销
 
 Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 91
+**Prompts in this category:** 99
 
 - [Agriculture PR: Tomato 3×3 Storyboard for Commercial](../poster-typography/gi25-x-355.md) (`gi25-x-355`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
@@ -17,6 +17,7 @@ _电商主图、营销广告、货架包装图。_
 - [Ceramic tea cup clean product photograph](./gi25-eco-011.md) (`gi25-eco-011`)
 - [Change bottle cap to gold, preserve all else](../edit-change-preserve/gi25-edit-020.md) (`gi25-edit-020`)
 - [Change mug background pale gray to warm beige](../edit-change-preserve/gi25-edit-018.md) (`gi25-edit-018`)
+- [Character as 16:9 macOS Wallpaper Formula](../character-consistency/gi25-x-468.md) (`gi25-x-468`)
 - [Character Design Reference Sheet](../edit-change-preserve/gi25-x-144.md) (`gi25-x-144`)
 - [Classic Sports Car Side Cutaway Infographic Formula](../poster-typography/gi25-x-351.md) (`gi25-x-351`)
 - [Cobalt ceramic mug studio product with headline space](./gi25-eco-010.md) (`gi25-eco-010`)
@@ -24,6 +25,7 @@ _电商主图、营销广告、货架包装图。_
 - [Collectible toy airplane blister pack](./gi25-eco-002.md) (`gi25-eco-002`)
 - [Convenience Store 1:13 AM Ginza Y2K Direct-Flash CCD](../edit-change-preserve/gi25-x-400.md) (`gi25-x-400`)
 - [Crack-Composition Commercial Quads: Scent Form Motion Hydration](../edit-change-preserve/gi25-x-368.md) (`gi25-x-368`)
+- [Curb-Shot Car → Marketplace Studio Packshot](./gi25-x-507.md) (`gi25-x-507`)
 - [Dense frame: six-model fashion campaign](./gi25-x-023.md) (`gi25-x-023`)
 - [Drop a fixed product shot into a new scene](./gi25-x-040.md) (`gi25-x-040`)
 - [Earbuds E-commerce Infographic](./gi25-x-016.md) (`gi25-x-016`)
@@ -34,6 +36,7 @@ _电商主图、营销广告、货架包装图。_
 - [Glass perfume bottle on pale stone (morning light)](./gi25-eco-014.md) (`gi25-eco-014`)
 - [Glass Slice Observation Window Beauty Campaign](./gi25-x-194.md) (`gi25-x-194`)
 - [Gourmet cheeseburger cinematic hero](./gi25-eco-008.md) (`gi25-eco-008`)
+- [High-Fashion Magenta Trench Editorial](../character-consistency/gi25-x-454.md) (`gi25-x-454`)
 - [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
 - [Hyper-Realistic 8-Pin Enamel Collection Flat Lay](../poster-typography/gi25-x-226.md) (`gi25-x-226`)
 - [Image-Edit System Prompt: State Change vs Preserve](./gi25-x-220.md) (`gi25-x-220`)
@@ -60,6 +63,7 @@ _电商主图、营销广告、货架包装图。_
 - [Noma sparkling water 4:5 campaign with exact headline](./gi25-eco-013.md) (`gi25-eco-013`)
 - [Oatmeal knit sweater lookbook on-model shot](./gi25-eco-018.md) (`gi25-eco-018`)
 - [Object-to-Fashion Core Feature Extraction Formula](./gi25-x-380.md) (`gi25-x-380`)
+- [One Product, Two Layouts: Lock Campaign Rules First](../poster-typography/gi25-x-500.md) (`gi25-x-500`)
 - [Packaging-Locked Multi-Campaign Product Shots](./gi25-x-163.md) (`gi25-x-163`)
 - [Parody Luxury Product Advertisement](./gi25-x-018.md) (`gi25-x-018`)
 - [Person holding the product, styled after a reference](./gi25-x-052.md) (`gi25-x-052`)
@@ -69,16 +73,20 @@ _电商主图、营销广告、货架包装图。_
 - [Premium product hero protect label leave CTA space](./gi25-eco-012.md) (`gi25-eco-012`)
 - [Product cutout transparency fal variant](../product-cutout/gi25-cut-003.md) (`gi25-cut-003`)
 - [Production Character Reference Sheet](../edit-change-preserve/gi25-x-338.md) (`gi25-x-338`)
+- [Real-Estate Lifestyle Triptych Vertical Posters](../poster-typography/gi25-x-501.md) (`gi25-x-501`)
 - [Same packshot product in a morning bathroom scene](./gi25-eco-019.md) (`gi25-eco-019`)
 - [Shampoo highway billboard Fresh and clean](./gi25-eco-001.md) (`gi25-eco-001`)
 - [Snack Poster with Noodle-Stretch Structure](../poster-typography/gi25-x-164.md) (`gi25-x-164`)
+- [Sneaker × Travel-Bag Pairing Poster](./gi25-x-495.md) (`gi25-x-495`)
 - [Sound you can feel speaker ad](./gi25-eco-006.md) (`gi25-eco-006`)
 - [Spicy chili chutney overhead product](./gi25-eco-009.md) (`gi25-eco-009`)
 - [Stone wireless earbuds museum archive](./gi25-eco-003.md) (`gi25-eco-003`)
 - [Storefront glass: reflection plus etched type](./gi25-x-036.md) (`gi25-x-036`)
+- [Storefront Miniature Diorama](../general/gi25-x-520.md) (`gi25-x-520`)
 - [Surgical packaging copy: Daily → Mineral Hydration](../edit-change-preserve/gi25-edit-019.md) (`gi25-edit-019`)
 - [Sustainable T-Shirt Plantable Tag Ad](./gi25-x-015.md) (`gi25-x-015`)
 - [Swap bottle background to warm sand studio](../edit-change-preserve/gi25-edit-023.md) (`gi25-edit-023`)
+- [Target Anchors Recolor Without Breaking the Frame](./gi25-x-423.md) (`gi25-x-423`)
 - [Ten Edit Plays: Keep-List Then Name the Changes](../edit-change-preserve/gi25-x-395.md) (`gi25-x-395`)
 - [Ten-panel storyboard for an autumn pyjama ad](./gi25-x-037.md) (`gi25-x-037`)
 - [Thread streetwear campaign with exact tagline](../poster-typography/gi25-typ-001.md) (`gi25-typ-001`)
@@ -97,4 +105,3 @@ _电商主图、营销广告、货架包装图。_
 - [Yellow Racing Social Poster with Exact Product Text](../poster-typography/gi25-x-230.md) (`gi25-x-230`)
 - [产品先于人：海鲜电商俯拍托盘英雄构图](../character-consistency/gi25-x-343.md) (`gi25-x-343`)
 - [换装不崩：PROTECTED WARDROBE 锁规则](../edit-change-preserve/gi25-x-342.md) (`gi25-x-342`)
-
