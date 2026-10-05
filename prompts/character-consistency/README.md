@@ -4,7 +4,7 @@ Identity-preserving characters across poses and scenes.
 
 _跨姿势与场景保持身份一致的角色。_
 
-**Prompts in this category:** 252
+**Prompts in this category:** 260
 
 - [128px combat-return sprite sheet](./gi25-x-073.md) (`gi25-x-073`)
 - [1960s Land of Giants Style-Locked Short Film Still](../general/gi25-x-210.md) (`gi25-x-210`)
@@ -52,6 +52,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Character Ref Dual Panel Notebook Reach-Through](./gi25-x-415.md) (`gi25-x-415`)
 - [Character Turnaround Sheet with Head Inset](./gi25-x-367.md) (`gi25-x-367`)
 - [Chat Memory Persona Infographic: Anime Portrait + Stats](../poster-typography/gi25-x-357.md) (`gi25-x-357`)
+- [Chef & Cat Duo Character Bible Sheet (Strict Reference Lock)](./gi25-x-547.md) (`gi25-x-547`)
 - [Chibi Character Sprite Sheet with 16 Poses](./gi25-x-294.md) (`gi25-x-294`)
 - [Children book forest hero character establish](./gi25-char-001.md) (`gi25-char-001`)
 - [Cinema Pets with 3D Glasses](./gi25-x-188.md) (`gi25-x-188`)
@@ -89,14 +90,17 @@ _跨姿势与场景保持身份一致的角色。_
 - [Face-Locked Fashion Lookbook Against Stucco Wall](./gi25-x-236.md) (`gi25-x-236`)
 - [Facial Identity Reference Across Composition](../edit-change-preserve/gi25-x-299.md) (`gi25-x-299`)
 - [Fantasy Film BTS Still: Sunburst × Seedance Behind-the-Scenes](../general/gi25-x-214.md) (`gi25-x-214`)
+- [Fashion Character Concept Sheet: 16:9 Style-Locked Reference](./gi25-x-540.md) (`gi25-x-540`)
 - [Fashion Portrait Using Facial Identity Reference](../edit-change-preserve/gi25-x-143.md) (`gi25-x-143`)
 - [Female Gaming Influencer 2x2 Frame Template](./gi25-x-165.md) (`gi25-x-165`)
 - [Film Roll Memory Overlay Workflow](../flare-vs-sunburst/gi25-x-459.md) (`gi25-x-459`)
+- [Flare 9:16 4K Max: East Asian Porcelain-Skin Close-Up Portrait](./gi25-x-536.md) (`gi25-x-536`)
 - [Flare Round-Head Seal Peeking Portrait](./gi25-x-258.md) (`gi25-x-258`)
 - [Flight Attendant 3×3 UGC Phone-Snapshot Grid](./gi25-x-213.md) (`gi25-x-213`)
 - [Floating Window Cloud Portrait Identity-Locked Editorial](./gi25-x-209.md) (`gi25-x-209`)
 - [FLORA SIGNAL: Chrome Humanoid CRT Floral Cultural Poster](../poster-typography/gi25-x-353.md) (`gi25-x-353`)
 - [Fortune 500 Brand Worlds Miniature 2×2](../poster-typography/gi25-x-465.md) (`gi25-x-465`)
+- [Four Styling Looks from One Reference: Same-Person Consistency](./gi25-x-558.md) (`gi25-x-558`)
 - [Four-panel pet comic reel](./gi25-gen-004.md) (`gi25-gen-004`)
 - [Four-panel skater comic strip](./gi25-char-008.md) (`gi25-char-008`)
 - [Four-Panel Studio Character Sheet of Same Woman](./gi25-x-228.md) (`gi25-x-228`)
@@ -109,6 +113,8 @@ _跨姿势与场景保持身份一致的角色。_
 - [Guofeng Noblewoman Emerald Makeup Portrait](../general/gi25-x-193.md) (`gi25-x-193`)
 - [Half Photo Half Paper-Art Editorial Poster](../edit-change-preserve/gi25-x-399.md) (`gi25-x-399`)
 - [Half-Seen Silhouette Backlight Translucent Formula](./gi25-x-430.md) (`gi25-x-430`)
+- [Han-Style Night Pavilion Portrait: Warm Lantern Gold x Cool Moonlight Blue](./gi25-x-533.md) (`gi25-x-533`)
+- [Harsh-Sun Portrait in Four Hair Colors: One Sunlight Recipe](./gi25-x-530.md) (`gi25-x-530`)
 - [High-Fashion Character Style-Bible Sheet](./gi25-x-197.md) (`gi25-x-197`)
 - [High-Fashion Magenta Trench Editorial](./gi25-x-454.md) (`gi25-x-454`)
 - [High-key tactical studio portrait](../general/gi25-x-079.md) (`gi25-x-079`)
@@ -159,6 +165,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [One Selfie to AAA Character Sheet Slot Master](./gi25-x-431.md) (`gi25-x-431`)
 - [Paris Street Portrait of Young Woman](./gi25-x-320.md) (`gi25-x-320`)
 - [Person into bear campsite action scene](../edit-change-preserve/gi25-edit-007.md) (`gi25-edit-007`)
+- [Personal-Brand Studio Quad: Four Expressions, One Identity](./gi25-x-529.md) (`gi25-x-529`)
 - [Phone-Screen Frame Portrait](../edit-change-preserve/gi25-x-159.md) (`gi25-x-159`)
 - [Photo and Ink Wash Memory Posters](../edit-change-preserve/gi25-x-363.md) (`gi25-x-363`)
 - [Photo-to-Expressive Oil Painting](../edit-change-preserve/gi25-x-340.md) (`gi25-x-340`)
@@ -188,6 +195,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Retro silkscreen character poster](../poster-typography/gi25-x-021.md) (`gi25-x-021`)
 - [Reusable 16-frame sprite sheet template](./gi25-x-033.md) (`gi25-x-033`)
 - [Same-Prompt 4-Panel Comic Image 2.5 vs Qwen Layout](../edit-change-preserve/gi25-x-397.md) (`gi25-x-397`)
+- [Scandinavian Luxury Editorial: Ice-Gray Coat + Visor Glasses](./gi25-x-551.md) (`gi25-x-551`)
 - [Selfie Identity Lock + Clay Mini-Me Harbor](./gi25-x-466.md) (`gi25-x-466`)
 - [Selfie to GTA6 Open-World Character Lock](./gi25-x-478.md) (`gi25-x-478`)
 - [Selfie to Yoruba Haute Couture Face-Lock Campaign](./gi25-x-260.md) (`gi25-x-260`)

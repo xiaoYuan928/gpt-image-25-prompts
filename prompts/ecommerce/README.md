@@ -4,7 +4,7 @@ Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 99
+**Prompts in this category:** 103
 
 - [Agriculture PR: Tomato 3×3 Storyboard for Commercial](../poster-typography/gi25-x-355.md) (`gi25-x-355`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
@@ -33,8 +33,10 @@ _电商主图、营销广告、货架包装图。_
 - [Fashion Ad with Tilted Ground Shot](./gi25-x-091.md) (`gi25-x-091`)
 - [Fill-In Lunchbox Collectible Merch Template](./gi25-x-263.md) (`gi25-x-263`)
 - [Geometry-locked product render](./gi25-x-112.md) (`gi25-x-112`)
+- [Giant Bucket City Poster: Scale Illusion Pinned by Miniature Streets](./gi25-x-544.md) (`gi25-x-544`)
 - [Glass perfume bottle on pale stone (morning light)](./gi25-eco-014.md) (`gi25-eco-014`)
 - [Glass Slice Observation Window Beauty Campaign](./gi25-x-194.md) (`gi25-x-194`)
+- [Golden Perfume Ritual: Identity-Locked 9:16 Product Portrait](./gi25-x-538.md) (`gi25-x-538`)
 - [Gourmet cheeseburger cinematic hero](./gi25-eco-008.md) (`gi25-eco-008`)
 - [High-Fashion Magenta Trench Editorial](../character-consistency/gi25-x-454.md) (`gi25-x-454`)
 - [Home espresso bar video thumbnail](./gi25-eco-016.md) (`gi25-eco-016`)
@@ -46,6 +48,7 @@ _电商主图、营销广告、货架包装图。_
 - [LUMEN hydrating serum studio packshot](./gi25-eco-017.md) (`gi25-eco-017`)
 - [Luxury Claw Machine Grabbing Product Ecommerce](./gi25-x-253.md) (`gi25-x-253`)
 - [Magical Seed Packet Diorama](./gi25-x-017.md) (`gi25-x-017`)
+- [Mango Can Physics-Gag Poster: The Product Hero a Bull Can't Drag](./gi25-x-543.md) (`gi25-x-543`)
 - [Matte black bottle product shot for later edits](./gi25-eco-021.md) (`gi25-eco-021`)
 - [Matte black mechanical keyboard product photo](./gi25-eco-015.md) (`gi25-eco-015`)
 - [Matte black speaker ecommerce hero](./gi25-eco-004.md) (`gi25-eco-004`)
@@ -75,6 +78,7 @@ _电商主图、营销广告、货架包装图。_
 - [Production Character Reference Sheet](../edit-change-preserve/gi25-x-338.md) (`gi25-x-338`)
 - [Real-Estate Lifestyle Triptych Vertical Posters](../poster-typography/gi25-x-501.md) (`gi25-x-501`)
 - [Same packshot product in a morning bathroom scene](./gi25-eco-019.md) (`gi25-eco-019`)
+- [Selfie to Glossy Designer-Toy Avatar](./gi25-x-525.md) (`gi25-x-525`)
 - [Shampoo highway billboard Fresh and clean](./gi25-eco-001.md) (`gi25-eco-001`)
 - [Snack Poster with Noodle-Stretch Structure](../poster-typography/gi25-x-164.md) (`gi25-x-164`)
 - [Sneaker × Travel-Bag Pairing Poster](./gi25-x-495.md) (`gi25-x-495`)

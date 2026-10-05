@@ -4,7 +4,7 @@ Mobile and web interface mockups with readable chrome.
 
 _可读控件的移动端与网页界面稿。_
 
-**Prompts in this category:** 46
+**Prompts in this category:** 47
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [9:16 Street Fashion with Graffiti Wall & Pink Cat](../character-consistency/gi25-x-499.md) (`gi25-x-499`)
@@ -31,6 +31,7 @@ _可读控件的移动端与网页界面稿。_
 - [LUMA habit app onboarding](./gi25-ui-005.md) (`gi25-ui-005`)
 - [Neo-Noir Character Design Board](../character-consistency/gi25-x-008.md) (`gi25-x-008`)
 - [NESTING mobile onboarding screen](./gi25-ui-004.md) (`gi25-ui-004`)
+- [One-Line iPhone Camera Roll Interface](./gi25-x-552.md) (`gi25-x-552`)
 - [Photoreal Product UGC Kitchen Supplement Bottle JSON](../edit-change-preserve/gi25-x-398.md) (`gi25-x-398`)
 - [Place a UI screenshot into a premium device scene](./gi25-x-041.md) (`gi25-x-041`)
 - [Prompt-management SaaS desktop UI preview](./gi25-ui-008.md) (`gi25-ui-008`)

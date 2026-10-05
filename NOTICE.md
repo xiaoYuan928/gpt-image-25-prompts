@@ -1,6 +1,6 @@
 # NOTICE — Third-party prompt sources
 
-Collected: **2026-10-02** (Asia/Shanghai).
+Collected: **2026-10-05** (Asia/Shanghai).
 
 This repository aggregates publicly published prompt examples for GPT Image 2.5
 (Flare / Sunburst) education and API testing. Scaffolding is MIT; prompt text is
@@ -10,7 +10,7 @@ CC BY 4.0 with per-record attribution. **Not affiliated with OpenAI.**
 
 | URL | source | authors | prompts | license note |
 |---|---|---|---:|---|
-| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+104) | 233 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix wi… |
+| https://github.com/xianyu110/awesome-gpt-image2.5 | community | @modelstoreai; @Diplomeme; @Shorelyn_; @zahra4sure; @ou_zhen599; @Gdgtify; … (+115) | 273 | Community X post mirrored in xianyu110/awesome-gpt-image2.5; remix wi… |
 | https://github.com/PhiMaker5/awesome-gpt-image-2.5-prompts | community | @JohnnyWang8802; @johnAGI168; @AIqoro; @eyishazyer; @TechieBySA; @livybabie; … (+39) | 77 | Community X post mirrored in PhiMaker5/awesome-gpt-image-2.5-prompts;… |
 | https://github.com/liuyaanng/awesome-gpt-image-2.5 | community | @VoxcatAI; @Goodmanprotocol; @ImagineArt_X; @weiinberg; @meng_dagg695; @saniaspeaks_; … (+32) | 67 | Community X post mirrored in awesome-gpt-image-2.5; remix with attrib… |
 | https://github.com/SeeAPI/awesome-gpt-image-2.5-prompts | community | @Naiknelofar788; @DeepBlueX0; @MrLarus; @ZHO_ZHO_ZHO; @johnAGI168; @liyue_ai; … (+39) | 66 | Community post mirrored in SeeAPI/awesome-gpt-image-2.5-prompts; remi… |
