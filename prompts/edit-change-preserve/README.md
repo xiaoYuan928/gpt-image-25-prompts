@@ -4,8 +4,9 @@ Surgical edits that change one thing and preserve the rest.
 
 _只改一件事、其余尽量保持的局部编辑。_
 
-**Prompts in this category:** 186
+**Prompts in this category:** 194
 
+- [1980s Bollywood Fashion Portrait from a Reference: Locked Composition](../character-consistency/gi25-x-576.md) (`gi25-x-576`)
 - [1980s Portrait from Facial Reference](./gi25-x-145.md) (`gi25-x-145`)
 - [1985 Photo Trend Transformation](./gi25-x-134.md) (`gi25-x-134`)
 - [2×5 Romance Polaroid Contact Sheet Story](../poster-typography/gi25-x-475.md) (`gi25-x-475`)
@@ -32,7 +33,9 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Change-only clothing olive jacket preserve face](./gi25-edit-015.md) (`gi25-edit-015`)
 - [Character as 16:9 macOS Wallpaper Formula](../character-consistency/gi25-x-468.md) (`gi25-x-468`)
 - [Character Design Reference Sheet](./gi25-x-144.md) (`gi25-x-144`)
+- [Character Design Sheet Identity Lock: Turnaround + Full Expression Set](../character-consistency/gi25-x-568.md) (`gi25-x-568`)
 - [Chef & Cat Duo Character Bible Sheet (Strict Reference Lock)](../character-consistency/gi25-x-547.md) (`gi25-x-547`)
+- [Chinese Sketch Layout: Boxes and Arrows Lock the Structure](./gi25-x-581.md) (`gi25-x-581`)
 - [Cinematic Fashion Editorial with Identity Reference](./gi25-x-317.md) (`gi25-x-317`)
 - [Cinematic Fashion Portrait Identity](./gi25-x-316.md) (`gi25-x-316`)
 - [Cinematic Modern Mafia Boss Portrait](../character-consistency/gi25-x-156.md) (`gi25-x-156`)
@@ -55,6 +58,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Ecommerce hero: preserve steel bottle from ref](../ecommerce/gi25-edit-034.md) (`gi25-edit-034`)
 - [Edit one element, leave the rest untouched](./gi25-x-039.md) (`gi25-x-039`)
 - [Edit: navy coat to beige field jacket](./gi25-edit-032.md) (`gi25-edit-032`)
+- [Editorial Art Poster for a Location](../character-consistency/gi25-x-599.md) (`gi25-x-599`)
 - [Facial Identity Reference Across Composition](./gi25-x-299.md) (`gi25-x-299`)
 - [Fashion Character Concept Sheet: 16:9 Style-Locked Reference](../character-consistency/gi25-x-540.md) (`gi25-x-540`)
 - [Fashion Editorial with Wind and Silk](./gi25-x-083.md) (`gi25-x-083`)
@@ -103,6 +107,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Needle-Felt Shiba Barista 4x4 Sprite Sheet Pipeline](./gi25-x-373.md) (`gi25-x-373`)
 - [Next shot, same character and location](./gi25-x-067.md) (`gi25-x-067`)
 - [Night Phone Snap Continuity: Identity Lock + Direct Flash](../character-consistency/gi25-x-219.md) (`gi25-x-219`)
+- [NYC Subway UGC: Handwritten Quote on a Foldable Phone](../character-consistency/gi25-x-578.md) (`gi25-x-578`)
 - [One Face, Four Poses Watercolor Collage Lock](../character-consistency/gi25-x-508.md) (`gi25-x-508`)
 - [Packaging-Locked Multi-Campaign Product Shots](../ecommerce/gi25-x-163.md) (`gi25-x-163`)
 - [Person holding the product, styled after a reference](../ecommerce/gi25-x-052.md) (`gi25-x-052`)
@@ -111,6 +116,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Phone-Screen Frame Portrait](./gi25-x-159.md) (`gi25-x-159`)
 - [Photo and Ink Wash Memory Posters](./gi25-x-363.md) (`gi25-x-363`)
 - [Photo to Minimal Illustration Memory Card 3:4](./gi25-x-376.md) (`gi25-x-376`)
+- [Photo-Based Minimal Watercolor Vignette Artwork](../character-consistency/gi25-x-601.md) (`gi25-x-601`)
 - [Photo-to-Expressive Oil Painting](./gi25-x-340.md) (`gi25-x-340`)
 - [Photo-to-Illustration Editorial Poster](./gi25-x-270.md) (`gi25-x-270`)
 - [Photoreal Food/Product into Hand-Drawn Storybook Editorial](./gi25-x-361.md) (`gi25-x-361`)
@@ -160,6 +166,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Still Image to Aerial Camera-Path Guide for Seedance](../general/gi25-x-528.md) (`gi25-x-528`)
 - [Style transfer motorcycle white background](./gi25-edit-002.md) (`gi25-edit-002`)
 - [Style-only transfer to fishing boat harbor](./gi25-edit-025.md) (`gi25-edit-025`)
+- [Sunburst Black-and-White Editorial Portrait: Face Lock + Magazine Light](../character-consistency/gi25-x-573.md) (`gi25-x-573`)
 - [Sunburst Y2K Street Identity-Lock Mid-step](../character-consistency/gi25-x-190.md) (`gi25-x-190`)
 - [Surgical packaging copy: Daily → Mineral Hydration](./gi25-edit-019.md) (`gi25-edit-019`)
 - [Swap bottle background to warm sand studio](./gi25-edit-023.md) (`gi25-edit-023`)
@@ -169,6 +176,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Three-reference product advertisement](../ecommerce/gi25-x-107.md) (`gi25-x-107`)
 - [Towel-Wrapped Makeup Frame Reconstruction](./gi25-x-173.md) (`gi25-x-173`)
 - [Transfer One Image's Style Onto Another Subject](./gi25-x-348.md) (`gi25-x-348`)
+- [Transform Photos Into Individual Premium Posters](./gi25-x-594.md) (`gi25-x-594`)
 - [Translate infographic to Spanish preserve layout](./gi25-edit-001.md) (`gi25-edit-001`)
 - [Transparent product cutout preserve label](../product-cutout/gi25-cut-004.md) (`gi25-cut-004`)
 - [Transparent product studio relighting](../product-cutout/gi25-x-109.md) (`gi25-x-109`)

@@ -4,7 +4,7 @@ Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 103
+**Prompts in this category:** 104
 
 - [Agriculture PR: Tomato 3×3 Storyboard for Commercial](../poster-typography/gi25-x-355.md) (`gi25-x-355`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
@@ -73,6 +73,7 @@ _电商主图、营销广告、货架包装图。_
 - [Photoreal Food/Product into Hand-Drawn Storybook Editorial](../edit-change-preserve/gi25-x-361.md) (`gi25-x-361`)
 - [Photoreal Product UGC Kitchen Supplement Bottle JSON](../edit-change-preserve/gi25-x-398.md) (`gi25-x-398`)
 - [Pizza Launch Metaphor Poster with Physics Storytelling](../poster-typography/gi25-x-201.md) (`gi25-x-201`)
+- [Premium Coffee Bag Product Mockup](./gi25-x-591.md) (`gi25-x-591`)
 - [Premium product hero protect label leave CTA space](./gi25-eco-012.md) (`gi25-eco-012`)
 - [Product cutout transparency fal variant](../product-cutout/gi25-cut-003.md) (`gi25-cut-003`)
 - [Production Character Reference Sheet](../edit-change-preserve/gi25-x-338.md) (`gi25-x-338`)

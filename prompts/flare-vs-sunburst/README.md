@@ -4,7 +4,7 @@ Same prompt useful for comparing Flare (fast) and Sunburst (quality).
 
 _适合用同一 Prompt 对比 Flare（快）与 Sunburst（精）。_
 
-**Prompts in this category:** 22
+**Prompts in this category:** 24
 
 - [Brand Dino Four-Model Bake-Off (Image2/Flare/Sunburst)](./gi25-x-493.md) (`gi25-x-493`)
 - [Ceramic tea cup clean product photograph](../ecommerce/gi25-eco-011.md) (`gi25-eco-011`)
@@ -21,10 +21,12 @@ _适合用同一 Prompt 对比 Flare（快）与 Sunburst（精）。_
 - [Museum woman editorial structured](../general/gi25-flare-001.md) (`gi25-flare-001`)
 - [n=4 Batch Self-Check Repair Instruction](./gi25-x-462.md) (`gi25-x-462`)
 - [Night Window Poster Bakeoff 2 vs Sunburst vs Flare](./gi25-x-436.md) (`gi25-x-436`)
+- [Perfect Water Reflection: GPT Image 2.5 vs 2 vs Nano Banana Pro vs Reve](./gi25-x-566.md) (`gi25-x-566`)
 - [Photoreal candid elderly sailor](../general/gi25-gen-001.md) (`gi25-gen-001`)
 - [Reference to Chibi Three-View Character Sheet](./gi25-x-255.md) (`gi25-x-255`)
 - [Same Prompt 2 to 2.5: Fighting-Game Character High-End Editorial](./gi25-x-561.md) (`gi25-x-561`)
 - [Same Prompt Luxury Bathroom OTS Comparison](./gi25-x-470.md) (`gi25-x-470`)
+- [Same Prompt Three Ways: Flare vs Sunburst vs Nano Banana 2](./gi25-x-577.md) (`gi25-x-577`)
 - [Sunburst Abstract-Background Portrait](../general/gi25-x-130.md) (`gi25-x-130`)
 - [Sunburst vs Image2: Tech Brand as Insect 2×2](./gi25-x-502.md) (`gi25-x-502`)
 - [Winter snowfall follow-up edit](../edit-change-preserve/gi25-edit-008.md) (`gi25-edit-008`)

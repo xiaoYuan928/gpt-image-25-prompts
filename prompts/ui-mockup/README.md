@@ -4,7 +4,7 @@ Mobile and web interface mockups with readable chrome.
 
 _可读控件的移动端与网页界面稿。_
 
-**Prompts in this category:** 47
+**Prompts in this category:** 48
 
 - [1992 CRT BBS Night Owl terminal](./gi25-ui-003.md) (`gi25-ui-003`)
 - [9:16 Street Fashion with Graffiti Wall & Pink Cat](../character-consistency/gi25-x-499.md) (`gi25-x-499`)
@@ -20,6 +20,7 @@ _可读控件的移动端与网页界面稿。_
 - [Canva → Images 2.5 → Codex Halloween LP Draft](./gi25-x-484.md) (`gi25-x-484`)
 - [Chinese Creative Agency Website Long Screenshot](./gi25-x-231.md) (`gi25-x-231`)
 - [Chinese wildlife endangered animal infographic](../xiaohongshu/gi25-ui-006.md) (`gi25-ui-006`)
+- [Dark SaaS Analytics Dashboard UI](./gi25-x-590.md) (`gi25-x-590`)
 - [DAYBREAK minimalist to-do app screenshot](./gi25-ui-002.md) (`gi25-ui-002`)
 - [Energy Drink Storyboard Grid](./gi25-x-005.md) (`gi25-x-005`)
 - [Everyday Gadget to Landmark Massing Analysis](../poster-typography/gi25-x-382.md) (`gi25-x-382`)
