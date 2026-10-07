@@ -4,8 +4,9 @@ Same prompt useful for comparing Flare (fast) and Sunburst (quality).
 
 _适合用同一 Prompt 对比 Flare（快）与 Sunburst（精）。_
 
-**Prompts in this category:** 24
+**Prompts in this category:** 25
 
+- [Add One Strawberry: Flare vs Sunburst Edit Precision Test](./gi25-x-608.md) (`gi25-x-608`)
 - [Brand Dino Four-Model Bake-Off (Image2/Flare/Sunburst)](./gi25-x-493.md) (`gi25-x-493`)
 - [Ceramic tea cup clean product photograph](../ecommerce/gi25-eco-011.md) (`gi25-eco-011`)
 - [Change bottle cap to gold, preserve all else](../edit-change-preserve/gi25-edit-020.md) (`gi25-edit-020`)

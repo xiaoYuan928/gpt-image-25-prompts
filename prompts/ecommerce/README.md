@@ -4,7 +4,7 @@ Hero shots, campaign ads, packshots for retail listing pages.
 
 _电商主图、营销广告、货架包装图。_
 
-**Prompts in this category:** 104
+**Prompts in this category:** 106
 
 - [Agriculture PR: Tomato 3×3 Storyboard for Commercial](../poster-typography/gi25-x-355.md) (`gi25-x-355`)
 - [Anime Character Brand Identity & Merch Board](./gi25-x-020.md) (`gi25-x-020`)
@@ -30,7 +30,9 @@ _电商主图、营销广告、货架包装图。_
 - [Drop a fixed product shot into a new scene](./gi25-x-040.md) (`gi25-x-040`)
 - [Earbuds E-commerce Infographic](./gi25-x-016.md) (`gi25-x-016`)
 - [Ecommerce hero: preserve steel bottle from ref](./gi25-edit-034.md) (`gi25-edit-034`)
+- [Expressive Automotive Motion Poster](../poster-typography/gi25-x-626.md) (`gi25-x-626`)
 - [Fashion Ad with Tilted Ground Shot](./gi25-x-091.md) (`gi25-x-091`)
+- [Feel the Sound Headphone Campaign Poster](../poster-typography/gi25-x-628.md) (`gi25-x-628`)
 - [Fill-In Lunchbox Collectible Merch Template](./gi25-x-263.md) (`gi25-x-263`)
 - [Geometry-locked product render](./gi25-x-112.md) (`gi25-x-112`)
 - [Giant Bucket City Poster: Scale Illusion Pinned by Miniature Streets](./gi25-x-544.md) (`gi25-x-544`)

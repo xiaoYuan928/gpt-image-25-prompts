@@ -4,13 +4,14 @@
 
 _小红书 3:4 封面、信息图与中文排版。_
 
-**Prompts in this category:** 17
+**Prompts in this category:** 18
 
 - [Chinese wildlife endangered animal infographic](./gi25-ui-006.md) (`gi25-ui-006`)
 - [Daytime Highlight CCD: Wind Installation Plaza Lifestyle](../character-consistency/gi25-x-352.md) (`gi25-x-352`)
 - [How image prompts work infographic](../poster-typography/gi25-typ-007.md) (`gi25-typ-007`)
 - [Mid-Autumn Poster “Moonfull Joy” — Zen Minimal](../poster-typography/gi25-x-266.md) (`gi25-x-266`)
 - [Mid-Autumn 「人间团圆夜」 Vertical Poster](../poster-typography/gi25-x-505.md) (`gi25-x-505`)
+- [Minimal National Day Cover with Red Silk](../poster-typography/gi25-x-647.md) (`gi25-x-647`)
 - [National Day Moments: 12 Holiday Photo Playbooks](../edit-change-preserve/gi25-x-358.md) (`gi25-x-358`)
 - [Oriental Zen Minimal Wallpaper「帘卷新晴」](../poster-typography/gi25-x-360.md) (`gi25-x-360`)
 - [Photo to Minimal Illustration Memory Card 3:4](../edit-change-preserve/gi25-x-376.md) (`gi25-x-376`)
