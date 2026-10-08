@@ -4,7 +4,7 @@ Identity-preserving characters across poses and scenes.
 
 _跨姿势与场景保持身份一致的角色。_
 
-**Prompts in this category:** 273
+**Prompts in this category:** 277
 
 - [128px combat-return sprite sheet](./gi25-x-073.md) (`gi25-x-073`)
 - [1960s Land of Giants Style-Locked Short Film Still](../general/gi25-x-210.md) (`gi25-x-210`)
@@ -34,6 +34,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Any Character → 12-Panel Transformation Storyboard](../general/gi25-x-208.md) (`gi25-x-208`)
 - [Asymmetric High-Fashion Studio Portrait](../edit-change-preserve/gi25-x-090.md) (`gi25-x-090`)
 - [Atmospheric Dressing-Room Fashion Portrait](./gi25-x-279.md) (`gi25-x-279`)
+- [Backlit B&W Fashion Portrait from a Character Sheet](./gi25-x-657.md) (`gi25-x-657`)
 - [Beauty Consultant Before/After Hair and Makeup Edit](../edit-change-preserve/gi25-x-359.md) (`gi25-x-359`)
 - [Black Haunted Bride Gothic Wedding Gown](./gi25-x-329.md) (`gi25-x-329`)
 - [Bokeh Twin Split: 85mm F1.2 Optical Poster](../poster-typography/gi25-x-490.md) (`gi25-x-490`)
@@ -70,6 +71,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Clay skateboard cat animation loop](./gi25-x-111.md) (`gi25-x-111`)
 - [Clay Stop-Motion: Fishing for a Star](./gi25-x-284.md) (`gi25-x-284`)
 - [Clear-Sky Highway Portrait Full Chinese Photoreal](./gi25-x-425.md) (`gi25-x-425`)
+- [Coastal Couple Portrait from Two Character Sheets](./gi25-x-669.md) (`gi25-x-669`)
 - [Cobalt Studio Streetwear Menswear Luxury Campaign](./gi25-x-207.md) (`gi25-x-207`)
 - [Confident Man Editorial Portrait](./gi25-x-327.md) (`gi25-x-327`)
 - [Contemporary Portrait Identity Lock: Magazine Quad](./gi25-x-513.md) (`gi25-x-513`)
@@ -134,6 +136,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Image 2.5 Local Edits for VOX Science Shorts](./gi25-x-455.md) (`gi25-x-455`)
 - [Image 2.5 Quest Sprite Sheet: 11-Panel Storyboard](./gi25-x-488.md) (`gi25-x-488`)
 - [Indoor Tennis Photoshoot: Full Chinese Prompt](./gi25-x-587.md) (`gi25-x-587`)
+- [Infinity-Pool Couture Evening Portrait from Reference](./gi25-x-662.md) (`gi25-x-662`)
 - [iPhone Day-in-the-Life Camera Roll](./gi25-x-154.md) (`gi25-x-154`)
 - [Japanese Punk Street Fashion Low-Angle Poster](../poster-typography/gi25-x-162.md) (`gi25-x-162`)
 - [Japanese Woman with Tanuki-Like Face at Night](./gi25-x-325.md) (`gi25-x-325`)
@@ -159,6 +162,7 @@ _跨姿势与场景保持身份一致的角色。_
 - [Multi-Panel Film Character Reference Sheet](./gi25-x-292.md) (`gi25-x-292`)
 - [Multi-ref roles: identity, clothing, lighting](../edit-change-preserve/gi25-edit-033.md) (`gi25-edit-033`)
 - [Natural head-and-shoulders reference portrait](./gi25-char-005.md) (`gi25-char-005`)
+- [Natural-Water Couple Portrait from Reference](./gi25-x-668.md) (`gi25-x-668`)
 - [Needle-Felt Shiba Barista 4x4 Sprite Sheet Pipeline](../edit-change-preserve/gi25-x-373.md) (`gi25-x-373`)
 - [Neo-Noir Character Design Board](./gi25-x-008.md) (`gi25-x-008`)
 - [Neon 80s Portrait (viral shared prompt)](../general/gi25-gen-009.md) (`gi25-gen-009`)

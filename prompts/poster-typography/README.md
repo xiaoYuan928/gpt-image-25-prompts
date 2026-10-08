@@ -4,8 +4,9 @@ Posters, ads, and layouts that need exact on-image text.
 
 _需要精确出字的海报、广告与版式。_
 
-**Prompts in this category:** 246
+**Prompts in this category:** 254
 
+- [1309 Studios Silk Abaya Brand Poster](./gi25-x-661.md) (`gi25-x-661`)
 - [1930s Monster-Film Pipeline: Rear-Projection & Puppets](../general/gi25-x-491.md) (`gi25-x-491`)
 - [1992 CRT BBS Night Owl terminal](../ui-mockup/gi25-ui-003.md) (`gi25-ui-003`)
 - [24h diner menu board exact categories](./gi25-typ-005.md) (`gi25-typ-005`)
@@ -35,6 +36,7 @@ _需要精确出字的海报、广告与版式。_
 - [Bold Subject + Wild Type Breakout Posters](./gi25-x-443.md) (`gi25-x-443`)
 - [Brand Identity Guideline Board](../ui-mockup/gi25-x-007.md) (`gi25-x-007`)
 - [Brand Wordmark Campus: Fortune 500 Isometric Miniature Campuses](./gi25-x-534.md) (`gi25-x-534`)
+- [Brick-Throw Forced-Perspective Campaign Poster](./gi25-x-667.md) (`gi25-x-667`)
 - [Candid Gym Deadlift Photo](./gi25-x-183.md) (`gi25-x-183`)
 - [Canva → Images 2.5 → Codex Halloween LP Draft](../ui-mockup/gi25-x-484.md) (`gi25-x-484`)
 - [CAPYVOYAGE Brazil Travel Poster Layout](./gi25-x-448.md) (`gi25-x-448`)
@@ -158,9 +160,12 @@ _需要精确出字的海报、广告与版式。_
 - [Noma sparkling water 4:5 campaign with exact headline](../ecommerce/gi25-eco-013.md) (`gi25-eco-013`)
 - [One Portrait Four Poster Pack SIGNAL MOTION ECHO MINT](./gi25-x-421.md) (`gi25-x-421`)
 - [One Product, Two Layouts: Lock Campaign Rules First](./gi25-x-500.md) (`gi25-x-500`)
+- [Open-Book Travel-Memory Editorial Poster](./gi25-x-676.md) (`gi25-x-676`)
 - [Orange Panels Fashion Editorial](../general/gi25-x-619.md) (`gi25-x-619`)
 - [Oriental Zen Autumn Cover: Catch the Falling Leaf](./gi25-x-402.md) (`gi25-x-402`)
 - [Oriental Zen Minimal Wallpaper「帘卷新晴」](./gi25-x-360.md) (`gi25-x-360`)
+- [Overhead 1950s Bartender Shaker-Toss Poster](./gi25-x-666.md) (`gi25-x-666`)
+- [Overhead Rocket-Nose Street Editorial Poster](./gi25-x-664.md) (`gi25-x-664`)
 - [Painterly Landscape with Dramatic Cumulus Clouds](./gi25-x-326.md) (`gi25-x-326`)
 - [Paper Folk Story](./gi25-x-286.md) (`gi25-x-286`)
 - [Paper-Cut Poster Quartet: Each Layer Cuts Open a Tiny World](./gi25-x-564.md) (`gi25-x-564`)
@@ -169,6 +174,7 @@ _需要精确出字的海报、广告与版式。_
 - [Photo to Luxury Travel Spread Story: Identity-Locked Collage Template](./gi25-x-559.md) (`gi25-x-559`)
 - [Photo to Minimal Illustration Memory Card 3:4](../edit-change-preserve/gi25-x-376.md) (`gi25-x-376`)
 - [Photo-to-Illustration Editorial Poster](../edit-change-preserve/gi25-x-270.md) (`gi25-x-270`)
+- [Photoreal + Isometric Diorama Split Travel Poster](./gi25-x-677.md) (`gi25-x-677`)
 - [Photoreal Food/Product into Hand-Drawn Storybook Editorial](../edit-change-preserve/gi25-x-361.md) (`gi25-x-361`)
 - [Pinterest Photo Reverse Prompt to Still](./gi25-x-473.md) (`gi25-x-473`)
 - [Pizza Launch Metaphor Poster with Physics Storytelling](./gi25-x-201.md) (`gi25-x-201`)
@@ -192,6 +198,7 @@ _需要精确出字的海报、广告与版式。_
 - [Retro Collage Piano Practice Scrapbook Face Lock](./gi25-x-374.md) (`gi25-x-374`)
 - [Retro Digital Editorial Poster Single Object Accent](./gi25-x-411.md) (`gi25-x-411`)
 - [Retro silkscreen character poster](./gi25-x-021.md) (`gi25-x-021`)
+- [Roller-Skating Bride Brutalist Street Poster](./gi25-x-665.md) (`gi25-x-665`)
 - [Same-Identity Lock: Multi-Pose Cinematic Action Poster](./gi25-x-574.md) (`gi25-x-574`)
 - [Same-Prompt 4-Panel Comic Image 2.5 vs Qwen Layout](../edit-change-preserve/gi25-x-397.md) (`gi25-x-397`)
 - [Scandinavian Branding Mockup](../edit-change-preserve/gi25-x-117.md) (`gi25-x-117`)
@@ -199,6 +206,7 @@ _需要精确出字的海报、广告与版式。_
 - [Series A Market Opportunity pitch slide](./gi25-typ-003.md) (`gi25-typ-003`)
 - [Shampoo highway billboard Fresh and clean](../ecommerce/gi25-eco-001.md) (`gi25-eco-001`)
 - [Showa-era Japanese travel poster](./gi25-x-022.md) (`gi25-x-022`)
+- [Single Continuous-Line City Crayon Artwork](./gi25-x-672.md) (`gi25-x-672`)
 - [Six-Person Cast Thumbnail with Percent Layout Recipe](../edit-change-preserve/gi25-x-365.md) (`gi25-x-365`)
 - [Snack Poster with Noodle-Stretch Structure](./gi25-x-164.md) (`gi25-x-164`)
 - [Sneaker × Travel-Bag Pairing Poster](../ecommerce/gi25-x-495.md) (`gi25-x-495`)

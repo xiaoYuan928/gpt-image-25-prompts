@@ -4,7 +4,7 @@ Surgical edits that change one thing and preserve the rest.
 
 _只改一件事、其余尽量保持的局部编辑。_
 
-**Prompts in this category:** 208
+**Prompts in this category:** 217
 
 - [10 Control-Focused Images 2.5 Prompts](../general/gi25-x-614.md) (`gi25-x-614`)
 - [1980s Bollywood Fashion Portrait from a Reference: Locked Composition](../character-consistency/gi25-x-576.md) (`gi25-x-576`)
@@ -20,6 +20,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Architectural Travel Postcards](./gi25-x-362.md) (`gi25-x-362`)
 - [Artistic Sketch Portrait Young Man](./gi25-x-116.md) (`gi25-x-116`)
 - [Asymmetric High-Fashion Studio Portrait](./gi25-x-090.md) (`gi25-x-090`)
+- [Backlit B&W Fashion Portrait from a Character Sheet](../character-consistency/gi25-x-657.md) (`gi25-x-657`)
 - [Batch A/B variants with one variable changed](./gi25-x-064.md) (`gi25-x-064`)
 - [Beauty Consultant Before/After Hair and Makeup Edit](./gi25-x-359.md) (`gi25-x-359`)
 - [Black-Pen Figure on a Calculation Draft Sheet](./gi25-x-645.md) (`gi25-x-645`)
@@ -45,6 +46,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Cinematic Fashion Portrait Identity](./gi25-x-316.md) (`gi25-x-316`)
 - [Cinematic Modern Mafia Boss Portrait](../character-consistency/gi25-x-156.md) (`gi25-x-156`)
 - [Classic Movie Quote Daily Card Editorial](./gi25-x-377.md) (`gi25-x-377`)
+- [Coastal Couple Portrait from Two Character Sheets](../character-consistency/gi25-x-669.md) (`gi25-x-669`)
 - [Cobalt Studio Streetwear Menswear Luxury Campaign](../character-consistency/gi25-x-207.md) (`gi25-x-207`)
 - [Coffee Bar Three States Sketch Render Exploded](./gi25-x-418.md) (`gi25-x-418`)
 - [Color-grade a garden photo while preserving its composition](./gi25-x-108.md) (`gi25-x-108`)
@@ -88,10 +90,12 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Identity-Locked Studio Fashion Portrait Yellow Sunglasses](./gi25-x-364.md) (`gi25-x-364`)
 - [Image 2.5 Local Edits for VOX Science Shorts](../character-consistency/gi25-x-455.md) (`gi25-x-455`)
 - [Image-Edit System Prompt: State Change vs Preserve](../ecommerce/gi25-x-220.md) (`gi25-x-220`)
+- [Infinity-Pool Couture Evening Portrait from Reference](../character-consistency/gi25-x-662.md) (`gi25-x-662`)
 - [Interior oak chair swap](./gi25-edit-012.md) (`gi25-edit-012`)
 - [iPhone Day-in-the-Life Camera Roll](../character-consistency/gi25-x-154.md) (`gi25-x-154`)
 - [Isolate the product and clean up the edges](../product-cutout/gi25-x-044.md) (`gi25-x-044`)
 - [Japanese Type-Interwoven Poster Set](../poster-typography/gi25-x-446.md) (`gi25-x-446`)
+- [JSON Reference Reconstruction: Sunlit Smartphone Portrait](./gi25-x-656.md) (`gi25-x-656`)
 - [Lakeside Bench Lifestyle Portrait](./gi25-x-636.md) (`gi25-x-636`)
 - [Landmark as Giant Textile Sculpture Formula](../poster-typography/gi25-x-472.md) (`gi25-x-472`)
 - [Localise the on-image copy only](../poster-typography/gi25-x-043.md) (`gi25-x-043`)
@@ -102,6 +106,7 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Merge multiple references, one job each](./gi25-x-034.md) (`gi25-x-034`)
 - [Minimal Watercolor Paper Cover](../poster-typography/gi25-x-152.md) (`gi25-x-152`)
 - [Minimalist Single-Line Country Art](./gi25-x-314.md) (`gi25-x-314`)
+- [Monochrome Ink-Splash Fragmentation Portrait](./gi25-x-670.md) (`gi25-x-670`)
 - [Monochrome Mini-Me Shoulder Portrait](../character-consistency/gi25-x-441.md) (`gi25-x-441`)
 - [Morning Editorial Travel Scrapbook](./gi25-x-638.md) (`gi25-x-638`)
 - [Move the desk lamp and update the lighting](./gi25-x-050.md) (`gi25-x-050`)
@@ -114,11 +119,13 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [n=4 Batch Self-Check Repair Instruction](../flare-vs-sunburst/gi25-x-462.md) (`gi25-x-462`)
 - [National Day Moments: 12 Holiday Photo Playbooks](./gi25-x-358.md) (`gi25-x-358`)
 - [Natural 4K Photo Restoration](./gi25-x-280.md) (`gi25-x-280`)
+- [Natural-Water Couple Portrait from Reference](../character-consistency/gi25-x-668.md) (`gi25-x-668`)
 - [Needle-Felt Shiba Barista 4x4 Sprite Sheet Pipeline](./gi25-x-373.md) (`gi25-x-373`)
 - [Next shot, same character and location](./gi25-x-067.md) (`gi25-x-067`)
 - [Night Phone Snap Continuity: Identity Lock + Direct Flash](../character-consistency/gi25-x-219.md) (`gi25-x-219`)
 - [NYC Subway UGC: Handwritten Quote on a Foldable Phone](../character-consistency/gi25-x-578.md) (`gi25-x-578`)
 - [One Face, Four Poses Watercolor Collage Lock](../character-consistency/gi25-x-508.md) (`gi25-x-508`)
+- [Oversized-Head Travel Portrait Edit](./gi25-x-658.md) (`gi25-x-658`)
 - [Packaging-Locked Multi-Campaign Product Shots](../ecommerce/gi25-x-163.md) (`gi25-x-163`)
 - [Pastel Pink Watercolor Fashion Portrait](./gi25-x-650.md) (`gi25-x-650`)
 - [Person holding the product, styled after a reference](../ecommerce/gi25-x-052.md) (`gi25-x-052`)
@@ -175,6 +182,8 @@ _只改一件事、其余尽量保持的局部编辑。_
 - [Sketch-to-Final Four-Step Workflow](./gi25-x-444.md) (`gi25-x-444`)
 - [Sketch-to-photoreal boutique hotel lobby](../general/gi25-gen-012.md) (`gi25-gen-012`)
 - [Sneaker × Travel-Bag Pairing Poster](../ecommerce/gi25-x-495.md) (`gi25-x-495`)
+- [Source-Faithful Ornate Vanity Recreation](./gi25-x-683.md) (`gi25-x-683`)
+- [Source-Faithful Vintage Car Hood Recreation](./gi25-x-684.md) (`gi25-x-684`)
 - [Split Photo and Hand-Painted Editorial Poster](./gi25-x-336.md) (`gi25-x-336`)
 - [Sticky-Note Rough Sketch to Image 2.5 to Seedance](./gi25-x-417.md) (`gi25-x-417`)
 - [Still Image to Aerial Camera-Path Guide for Seedance](../general/gi25-x-528.md) (`gi25-x-528`)
