@@ -73,3 +73,4 @@ Count: **67** / 176
 - `gi25-eco-016` — Home espresso bar video thumbnail: no dedicated example image on attribution page (or not cached this harvest).
 - `gi25-eco-019` — Same packshot product in a morning bathroom scene: no dedicated example image on attribution page (or not cached this harvest).
 - `gi25-eco-020` — Morning Blend coffee bag — three language variants: no dedicated example image on attribution page (or not cached this harvest).
+- `gi25-x-1373` — Ultra-Realistic iPhone Selfie AI Avatar Portrait: preview image not cached this harvest.
