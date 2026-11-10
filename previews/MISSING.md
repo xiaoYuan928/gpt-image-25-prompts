@@ -76,3 +76,4 @@ Count: **67** / 176
 - `gi25-x-1373` — Ultra-Realistic iPhone Selfie AI Avatar Portrait: preview image not cached this harvest.
 - `gi25-x-1439` — Unretouched iPhone Selfie for a UGC Creator (3:4): preview image not cached this harvest.
 - `gi25-x-1454` — Pointillist Autumn Tabby Cat Relief (16:9): preview image not cached this harvest.
+- `gi25-x-1482` — Impasto Oil Painting: Snowy Cabin River at Sunset (16:9): preview image not cached this harvest.
